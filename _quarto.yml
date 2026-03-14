@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "BioHUG"
+  navbar:
+    left:
+      - text: "For patients"
+        menu:
+          - text: "What is BioHUG?"
+            href: patients/what-is-biohug.qmd
+          - text: "BioHUG FAQ"
+            href: patients/faq.qmd
+          - text: "BioHUG consent"
+            href: patients/consent.qmd
+          - text: "Use of BioHUG samples"
+            href: patients/use-of-samples.qmd
+      - text: "For researchers"
+        menu:
+          - text: "BioHUG description"
+            href: researchers/description.qmd
+          - text: "How to use BioHUG"
+            href: researchers/how-to-use.qmd
+  page-footer:
+    center: "BioHUG — Hôpitaux Universitaires de Genève (HUG)"
+
+format:
+  html:
+    theme:
+      light:
+        - flatly
+        - custom.scss
+    toc: true
