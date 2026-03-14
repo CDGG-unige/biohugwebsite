@@ -1,12 +1,10 @@
 ---
 format: html
 ---
-title: "BioHUG"
----
 
-Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG).
-This site provides information for patients and researchers.
----
+## title: "BioHUG"
+
+Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. ---
 
 ## Quarto
 
