@@ -2,8 +2,7 @@
 title: "For researchers"
 ---
 
-Information about the BioHUG project for researchers at HUG and UNIGE.
----
+## Information about the BioHUG project for researchers at HUG and UNIGE.
 
 ## Quarto
 

@@ -1,0 +1,12 @@
+/* Pale red and pale blue theme accents */
+$primary: #b3cde0;   /* pale blue */
+$secondary: #f4a9a8; /* pale red */
+$navbar-bg: $primary;
+$navbar-fg: #ffffff;
+$link-color: $secondary;
+$link-hover-color: darken($secondary, 10%);
+$footer-bg: $primary;
+$footer-fg: #ffffff;
+body {
+  background: mix($primary, $secondary, 65%);
+}

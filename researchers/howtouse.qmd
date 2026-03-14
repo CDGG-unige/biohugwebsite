@@ -3,8 +3,7 @@ title: "howtouse"
 format: html
 ---
 
-coming soon
----
+## coming soon
 
 ## Quarto
 
