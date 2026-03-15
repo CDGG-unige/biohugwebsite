@@ -3,8 +3,35 @@ title: "faqs"
 format: html
 ---
 
-coming soon
+
+## Frequently Asked Questions
+
+::: {.callout collapse="true"}
+### What is Quarto?
+
+Quarto is an open-source scientific and technical publishing system built on Pandoc.
+:::
+
+::: {.callout collapse="true"}
+### Will this match my website theme?
+
+Yes! This uses native Quarto components so it will automatically inherit the colours, fonts and styling of your website.
+:::
+
+::: {.callout collapse="true"}
+### Is this accessible?
+
+Absolutely. Collapsible callouts use the standard HTML `<details>` element which is natively supported by all browsers, screen readers and keyboard navigation.
+:::
+
+::: {.callout collapse="true"}
+### Can I have items open by default?
+
+Yes! Just change `collapse="true"` to `collapse="false"` on any item you want to be expanded when the page loads.
+:::
 ---
+
+## coming soon
 
 ## Quarto
 
@@ -15,6 +42,7 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
+#| echo: false
 1 + 1
 ```
 
