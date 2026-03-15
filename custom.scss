@@ -1,7 +1,11 @@
 /* Pale red and pale blue theme accents */
-$primary: #b3cde0;   /* pale blue */
-$secondary: #f4a9a8; /* pale red */
-$navbar-bg: $primary;
+$primary: #6c8ebf; /* calm blue */
+$secondary: #e6a4a4; /* dusty rose */
+$success: #9fd5b3; /* mint */
+$info: #a9cce3; /* sky */
+$warning: #f8c471; /* warm amber */
+$danger: #e57373; /* soft red */
+$navbar-bg: $secondary;
 $navbar-fg: #ffffff;
 $link-color: $secondary;
 $link-hover-color: darken($secondary, 10%);

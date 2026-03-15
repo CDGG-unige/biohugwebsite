@@ -1,56 +1,40 @@
 ---
-title: "faqs"
+title: "FAQs"
 format: html
 ---
-
 
 ## Frequently Asked Questions
 
 ::: {.callout collapse="true"}
-### What is Quarto?
+### How can DNA be collected from me and used for research ?
 
-Quarto is an open-source scientific and technical publishing system built on Pandoc.
+When you have a routine blood test, for example to check your cholesterol levels or how well your kidneys are functioning, there is often some blood left over. This unused blood is usually thrown in the trash after a few days. For BioHUG, we intercept these blood samples, if you have signed the general consent, and extract DNA in laboratories at the HUG.  
+
+In early 2026, over 150,000 Geneva residents have signed the general consent giving permission for their medical data and samples to be reused for research. BioHUG is aiming to bank DNA from 20,000 of these Geneva residents by early 2027. This will make BioHUG the largest biomedical research project in Geneva and one of the largest in Europe from a single hospital.
 :::
 
 ::: {.callout collapse="true"}
-### Will this match my website theme?
+### Who can participate ?
 
-Yes! This uses native Quarto components so it will automatically inherit the colours, fonts and styling of your website.
+Anyone who has signed the general consent could be part of BioHUG.
 :::
 
 ::: {.callout collapse="true"}
-### Is this accessible?
+### How does BioHUG handle my spare blood ?
 
-Absolutely. Collapsible callouts use the standard HTML `<details>` element which is natively supported by all browsers, screen readers and keyboard navigation.
+Although the samples come from patients the sample is de identified. This means that each sample is given a special code that is separate from the patient ID in the HUG. Researchers only see this special code and not the patient ID. BioHUG takes patient privacy very seriously and no names, dates of birth or addresses are ever available to researchers. For each researcher using BioHUG, the de identified special code is linked to a limited set of medical information that is relevant to that researcher. For example a researcher wishing to study Diabetes will only use data relevant to diabetes.
 :::
 
 ::: {.callout collapse="true"}
-### Can I have items open by default?
+### Will someone let me know if something is found in my left over sample ?
 
-Yes! Just change `collapse="true"` to `collapse="false"` on any item you want to be expanded when the page loads.
+No. We do not perform the tests in a clinical laboratory and to clinical standards. If you have concerns that DNA tests could be important for your health, please consult your Doctor. However, we hope that , by using your DNA and other samples from your blood, that new, improved treatments will be possible, including ones more personal to you.
 :::
----
 
-## coming soon
+------------------------------------------------------------------------
 
-## Quarto
+## Contact us
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Contact us at xxxxx
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-#| echo: false
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## 

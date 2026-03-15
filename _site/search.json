@@ -14,46 +14,39 @@
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
-    "objectID": "patients/faqs.html#quarto",
-    "href": "patients/faqs.html#quarto",
-    "title": "faqs",
-    "section": "Quarto",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "patients/faqs.html",
+    "href": "patients/faqs.html",
+    "title": "FAQs",
+    "section": "",
+    "text": "NoneHow can DNA be collected from me and used for research ?\n\n\n\n\n\nWhen you have a routine blood test, for example to check your cholesterol levels or how well your kidneys are functioning, there is often some blood left over. This unused blood is usually thrown in the trash after a few days. For BioHUG, we intercept these blood samples, if you have signed the general consent, and extract DNA in laboratories at the HUG.  \nIn early 2026, over 150,000 Geneva residents have signed the general consent giving permission for their medical data and samples to be reused for research. BioHUG is aiming to bank DNA from 20,000 of these Geneva residents by early 2027. This will make BioHUG the largest biomedical research project in Geneva and one of the largest in Europe from a single hospital.\n\n\n\n\n\n\n\n\n\nNoneWho can participate ?\n\n\n\n\n\nAnyone who has signed the general consent could be part of BioHUG.\n\n\n\n\n\n\n\n\n\nNoneHow does BioHUG handle my spare blood ?\n\n\n\n\n\nAlthough the samples come from patients the sample is de identified. This means that each sample is given a special code that is separate from the patient ID in the HUG. Researchers only see this special code and not the patient ID. BioHUG takes patient privacy very seriously and no names, dates of birth or addresses are ever available to researchers. For each researcher using BioHUG, the de identified special code is linked to a limited set of medical information that is relevant to that researcher. For example a researcher wishing to study Diabetes will only use data relevant to diabetes.\n\n\n\n\n\n\n\n\n\nNoneWill someone let me know if something is found in my left over sample ?\n\n\n\n\n\nNo. We do not perform the tests in a clinical laboratory and to clinical standards. If you have concerns that DNA tests could be important for your health, please consult your Doctor. However, we hope that , by using your DNA and other samples from your blood, that new, improved treatments will be possible, including ones more personal to you."
   },
   {
-    "objectID": "patients/faqs.html#running-code",
-    "href": "patients/faqs.html#running-code",
-    "title": "faqs",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "patients/faqs.html#frequently-asked-questions",
+    "href": "patients/faqs.html#frequently-asked-questions",
+    "title": "FAQs",
+    "section": "",
+    "text": "NoneHow can DNA be collected from me and used for research ?\n\n\n\n\n\nWhen you have a routine blood test, for example to check your cholesterol levels or how well your kidneys are functioning, there is often some blood left over. This unused blood is usually thrown in the trash after a few days. For BioHUG, we intercept these blood samples, if you have signed the general consent, and extract DNA in laboratories at the HUG.  \nIn early 2026, over 150,000 Geneva residents have signed the general consent giving permission for their medical data and samples to be reused for research. BioHUG is aiming to bank DNA from 20,000 of these Geneva residents by early 2027. This will make BioHUG the largest biomedical research project in Geneva and one of the largest in Europe from a single hospital.\n\n\n\n\n\n\n\n\n\nNoneWho can participate ?\n\n\n\n\n\nAnyone who has signed the general consent could be part of BioHUG.\n\n\n\n\n\n\n\n\n\nNoneHow does BioHUG handle my spare blood ?\n\n\n\n\n\nAlthough the samples come from patients the sample is de identified. This means that each sample is given a special code that is separate from the patient ID in the HUG. Researchers only see this special code and not the patient ID. BioHUG takes patient privacy very seriously and no names, dates of birth or addresses are ever available to researchers. For each researcher using BioHUG, the de identified special code is linked to a limited set of medical information that is relevant to that researcher. For example a researcher wishing to study Diabetes will only use data relevant to diabetes.\n\n\n\n\n\n\n\n\n\nNoneWill someone let me know if something is found in my left over sample ?\n\n\n\n\n\nNo. We do not perform the tests in a clinical laboratory and to clinical standards. If you have concerns that DNA tests could be important for your health, please consult your Doctor. However, we hope that , by using your DNA and other samples from your blood, that new, improved treatments will be possible, including ones more personal to you."
+  },
+  {
+    "objectID": "patients/faqs.html#contact-us",
+    "href": "patients/faqs.html#contact-us",
+    "title": "FAQs",
+    "section": "Contact us",
+    "text": "Contact us\nContact us at xxxxx"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "BioHUG",
     "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. —"
+    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. —\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
-    "objectID": "index.html#title-biohug",
-    "href": "index.html#title-biohug",
+    "objectID": "index.html#biohug",
+    "href": "index.html#biohug",
     "title": "BioHUG",
     "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. —"
-  },
-  {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "BioHUG",
-    "section": "Quarto",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "BioHUG",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. —\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
     "objectID": "patients/index.html#quarto",
@@ -82,26 +75,5 @@
     "title": "howtouse",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "patients/faqs.html",
-    "href": "patients/faqs.html",
-    "title": "faqs",
-    "section": "",
-    "text": "NoneWhat is Quarto?\n\n\n\n\n\nQuarto is an open-source scientific and technical publishing system built on Pandoc.\n\n\n\n\n\n\n\n\n\nNoneWill this match my website theme?\n\n\n\n\n\nYes! This uses native Quarto components so it will automatically inherit the colours, fonts and styling of your website.\n\n\n\n\n\n\n\n\n\nNoneIs this accessible?\n\n\n\n\n\nAbsolutely. Collapsible callouts use the standard HTML &lt;details&gt; element which is natively supported by all browsers, screen readers and keyboard navigation.\n\n\n\n\n\n\n\n\n\nNoneCan I have items open by default?\n\n\n\n\n\nYes! Just change collapse=\"true\" to collapse=\"false\" on any item you want to be expanded when the page loads."
-  },
-  {
-    "objectID": "patients/faqs.html#frequently-asked-questions",
-    "href": "patients/faqs.html#frequently-asked-questions",
-    "title": "faqs",
-    "section": "",
-    "text": "NoneWhat is Quarto?\n\n\n\n\n\nQuarto is an open-source scientific and technical publishing system built on Pandoc.\n\n\n\n\n\n\n\n\n\nNoneWill this match my website theme?\n\n\n\n\n\nYes! This uses native Quarto components so it will automatically inherit the colours, fonts and styling of your website.\n\n\n\n\n\n\n\n\n\nNoneIs this accessible?\n\n\n\n\n\nAbsolutely. Collapsible callouts use the standard HTML &lt;details&gt; element which is natively supported by all browsers, screen readers and keyboard navigation.\n\n\n\n\n\n\n\n\n\nNoneCan I have items open by default?\n\n\n\n\n\nYes! Just change collapse=\"true\" to collapse=\"false\" on any item you want to be expanded when the page loads."
-  },
-  {
-    "objectID": "patients/faqs.html#coming-soon",
-    "href": "patients/faqs.html#coming-soon",
-    "title": "faqs",
-    "section": "coming soon",
-    "text": "coming soon"
   }
 ]

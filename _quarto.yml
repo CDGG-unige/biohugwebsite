@@ -2,27 +2,28 @@ project:
   type: website
 
 website:
-  site-url: https://CDGG-unige.github.io/biohugwebsite/tree/gh-pages/
-  repo-url: https://github.com/CDGG-unige/biohugwebsite/tree/gh-pages/
+  site-url: https://CDGG-unige.github.io/biohugwebsite/
+  repo-url: https://github.com/CDGG-unige/biohugwebsite/
+  
   title: "BioHUG"
   navbar:
     left:
       - text: "For patients"
         menu:
           - text: "What is BioHUG?"
-            href: /patients/what-is-biohug.qmd
+            href: patients/whatisbiohug.qmd
           - text: "BioHUG FAQ"
-            href: /patients/faq.qmd
+            href: patients/faqs.qmd
           - text: "BioHUG consent"
-            href: /patients/consent.qmd
+            href: patients/consent.qmd
           - text: "Use of BioHUG samples"
-            href: /patients/use-of-samples.qmd
+            href: patients/useofsamples.qmd
       - text: "For researchers"
         menu:
           - text: "BioHUG description"
-            href: /researchers/description.qmd
+            href: researchers/description.qmd
           - text: "How to use BioHUG"
-            href: /researchers/how-to-use.qmd
+            href: researchers/howtouse.qmd
   page-footer:
     center: "BioHUG — Hôpitaux Universitaires de Genève (HUG)"
 
