@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://CDGG-unige.github.io/biohugwebsite/researchers/index.html</loc>
-    <lastmod>2026-03-15T12:18:36.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://CDGG-unige.github.io/biohugwebsite/researchers/description.html</loc>
-    <lastmod>2026-03-16T16:34:52.642Z</lastmod>
+    <lastmod>2026-03-16T16:47:08.462Z</lastmod>
   </url>
   <url>
     <loc>https://CDGG-unige.github.io/biohugwebsite/patients/useofsamples.html</loc>
@@ -34,6 +30,6 @@
   </url>
   <url>
     <loc>https://CDGG-unige.github.io/biohugwebsite/researchers/howtouse.html</loc>
-    <lastmod>2026-03-15T12:18:36.000Z</lastmod>
+    <lastmod>2026-03-16T16:40:28.507Z</lastmod>
   </url>
 </urlset>
