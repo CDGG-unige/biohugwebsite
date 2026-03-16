@@ -25,14 +25,21 @@
     "href": "index.html",
     "title": "BioHUG",
     "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. —\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers."
   },
   {
     "objectID": "index.html#biohug",
     "href": "index.html#biohug",
     "title": "BioHUG",
     "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. —\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers."
+  },
+  {
+    "objectID": "index.html#more-updates-coming-soon",
+    "href": "index.html#more-updates-coming-soon",
+    "title": "BioHUG",
+    "section": "More updates coming soon",
+    "text": "More updates coming soon"
   },
   {
     "objectID": "patients/consent.html",
