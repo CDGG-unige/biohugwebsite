@@ -1,4 +1,6 @@
 ---
-title: "consent"
+title: "Consent"
 editor: visual
 ---
+
+If you have signed the general consent in the past your samples could be part of BioHUG. This consent allows researchers to reuse data and samples for research, with strict privacy protection. The general consent form can be found [here](https://www.hug.ch/sites/interhug/files/documents/consentement-general.pdf){target="_blank" rel="noopener noreferrer"}.

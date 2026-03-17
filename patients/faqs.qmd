@@ -28,7 +28,7 @@ Although the samples come from patients the sample is de identified. This means 
 ::: {.callout collapse="true"}
 ### Will someone let me know if something is found in my left over sample ?
 
-No. We do not perform the tests in a clinical laboratory and to clinical standards. If you have concerns that DNA tests could be important for your health, please consult your Doctor. However, we hope that , by using your DNA and other samples from your blood, that new, improved treatments will be possible, including ones more personal to you.
+No. The tests we perform are not carried out in a clinical laboratory, instead they
 :::
 
 ------------------------------------------------------------------------

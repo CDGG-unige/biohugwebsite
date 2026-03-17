@@ -1,6 +1,6 @@
 /* Pale red and pale blue theme accents */
-$primary: #6c8ebf; /* calm blue */
-$secondary: #e6a4a4; /* dusty rose */
+$primary: #9D4EDD; /* purple */
+$secondary: #7E57C2; /* another purple*/
 $success: #9fd5b3; /* mint */
 $info: #a9cce3; /* sky */
 $warning: #f8c471; /* warm amber */
@@ -15,7 +15,8 @@ $footer-fg: #ffffff;
 /*-- scss:defaults --*/
 
 body {
-  background: mix($primary, $secondary, 65%);
+  background: 	#F3E5F5	;
 }
 
 /*-- scss:rules --*/
+

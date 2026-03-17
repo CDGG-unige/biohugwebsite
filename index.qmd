@@ -1,21 +1,25 @@
 ---
 format: html
+title: "Welcome to BioHUG" 
 ---
 
 ## BioHUG
 
-Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers. ---
+Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.
 
-```{r}
-#| echo: false
-1 + 1
-```
+We would like to thank the HUG, the [patientes partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"} the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.
 
-You can add options to executable code like this
+::: {.columns .text-center}
 
-```{r}
-#| echo: false
-2 * 2
-```
+::: {.column}
+<a href="researchers/index.qmd" class="big-link-box">For Researchers</a>
+:::
 
-The `echo: false` option disables the printing of code (only output is displayed).
+::: {.column}
+<a href="patients/index.qmd" class="big-link-box">For Patients</a>
+:::
+
+:::
+
+![The initial funding for the BioHUG set up comes from the HUG foundation](images/LOGO_FONDATION_V.jpg){fig-align="center" width="15%"}
+
