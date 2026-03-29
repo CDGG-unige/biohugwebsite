@@ -42,20 +42,6 @@
     "text": "If you have signed the general consent in the past your samples could be part of BioHUG. This consent allows researchers to reuse data and samples for research, with strict privacy protection. The general consent form can be found here."
   },
   {
-    "objectID": "index.fr.html",
-    "href": "index.fr.html",
-    "title": "Bienvenue à BioHUG",
-    "section": "",
-    "text": "Bienvenue sur le site du projet BioHUG des Hôpitaux Universitaires de Genève (HUG). Ce site fournit des informations destinées aux patients et aux chercheurs.\nNous tenons à remercier les HUG, les patientes partenaires la Fondation HUG et les patients pour leur soutien, mais surtout les patients de l’HUG qui ont accepté que leurs données de routine et leurs échantillons puissent être réutilisés par des chercheurs dans des conditions appropriées.\n\n\nFor Researchers\n\nFor Patients"
-  },
-  {
-    "objectID": "index.fr.html#biohug",
-    "href": "index.fr.html#biohug",
-    "title": "Bienvenue à BioHUG",
-    "section": "",
-    "text": "Bienvenue sur le site du projet BioHUG des Hôpitaux Universitaires de Genève (HUG). Ce site fournit des informations destinées aux patients et aux chercheurs.\nNous tenons à remercier les HUG, les patientes partenaires la Fondation HUG et les patients pour leur soutien, mais surtout les patients de l’HUG qui ont accepté que leurs données de routine et leurs échantillons puissent être réutilisés par des chercheurs dans des conditions appropriées.\n\n\nFor Researchers\n\nFor Patients"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contacts",
@@ -74,14 +60,14 @@
     "href": "index.html",
     "title": "Welcome to BioHUG",
     "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.\nWe would like to thank the HUG, the patientes partenaires the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.\n\n\nFor Researchers\n\nFor Patients"
+    "text": "This is the English content."
   },
   {
     "objectID": "index.html#biohug",
     "href": "index.html#biohug",
     "title": "Welcome to BioHUG",
-    "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.\nWe would like to thank the HUG, the patientes partenaires the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.\n\n\nFor Researchers\n\nFor Patients"
+    "section": "BioHUG",
+    "text": "BioHUG\nWelcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.\nWe would like to thank the HUG, the patientes partenaires the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.\n\n\nFor Researchers\n\nFor Patients"
   },
   {
     "objectID": "patients/faqs.html",
