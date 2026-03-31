@@ -338,6 +338,10 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../#"> 
+<span class="menu-text">🇫🇷 FR</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -361,9 +365,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <hr>
-<p>format: html</p>
-<p>title: “Bienvenue a BioHUG” lang: fr —</p>
-<p>Notre mission est d’aider les chercheurs à faire progresser la recherche sur les maladies et la médecine personnalisée, en partenariat avec les patients des HUG. Ce site web fournit des informations à ces patients et chercheurs des HUG. L’un de nos principaux objectifs est de faciliter la collecte et l’utilisation sécurisée d’échantillons anonymisés provenant des patients, notamment <img src="../images/bloodtuberack.webp" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%" alt="des échantillons de sang qui, autrement, finiraient à la poubelle"></p>
+<p>format: html title: “Bienvenue a BioHUG”</p>
+<hr>
+<p>Notre mission est d’aider les chercheurs à faire progresser la recherche sur les maladies et la médecine personnalisée, en partenariat avec les patients des HUG. Ce site web fournit des informations à ces patients et chercheurs des HUG. L’un de nos principaux objectifs est de faciliter la collecte et l’utilisation sécurisée d’échantillons anonymisés provenant des patients, notamment des échantillons de sang qui, autrement, finiraient à la poubelle![]](../images/bloodtuberack.webp){fig-align=“center” width=“75%”}</p>
 <p>Nous tenons à remercier les HUG, les <a href="https://www.hug.ch/patients-partenaires" target="_blank" rel="noopener noreferrer">patients partenaires</a>, la Fondation HUG, mais surtout les patients de HUG qui ont accepté que leurs données de routine et leurs échantillons puissent être réutilisés par des chercheurs dans des conditions appropriées et sécurisées.</p>
 <div class="columns text-center">
 <div class="column">
@@ -376,6 +380,57 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<script>
+
+  document.addEventListener("DOMContentLoaded", function () {
+
+    const toggle = document.getElementById("lang-toggle");
+
+    if (toggle) {
+
+      const path = window.location.pathname;
+
+      const isFrench = path.includes("/fr/");
+
+
+
+      // Update label to show which language you can switch TO
+
+      toggle.textContent = isFrench ? "🇬🇧 EN" : "🇫🇷 FR";
+
+
+
+      toggle.addEventListener("click", function (e) {
+
+        e.preventDefault();
+
+        if (isFrench) {
+
+          // Go from /fr/patients/faqs.html → /patients/faqs.html
+
+          window.location.href = path.replace("/fr/", "/");
+
+        } else {
+
+          // Go from /patients/faqs.html → /fr/patients/faqs.html
+
+          window.location.href = path.replace(
+
+            /^(\/biohugwebsite\/)(.*)$/,
+
+            "$1fr/$2"
+
+          );
+
+        }
+
+      });
+
+    }
+
+  });
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
