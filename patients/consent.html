@@ -381,6 +381,53 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<li class="nav-item">
+
+  <a class="nav-link" id="lang-toggle" href="#" title="Switch language">
+
+    🇫🇷 FR / 🇬🇧 EN
+
+  </a>
+
+</li>
+
+
+
+<script>
+
+  document.addEventListener("DOMContentLoaded", function () {
+
+    const toggle = document.getElementById("lang-toggle");
+
+    const path = window.location.pathname;
+
+    if (toggle) {
+
+      // Update label based on current language
+
+      toggle.textContent = path.startsWith("/fr/") ? "🇬🇧 EN" : "🇫🇷 FR";
+
+      toggle.addEventListener("click", function (e) {
+
+        e.preventDefault();
+
+        if (path.startsWith("/fr/")) {
+
+          window.location.href = path.replace("/fr/", "/");
+
+        } else {
+
+          window.location.href = "/fr" + path;
+
+        }
+
+      });
+
+    }
+
+  });
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

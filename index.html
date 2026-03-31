@@ -350,14 +350,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#biohug" id="toc-biohug" class="nav-link active" data-scroll-target="#biohug">BioHUG</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -382,10 +376,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="biohug" class="level2">
-<h2 class="anchored" data-anchor-id="biohug">BioHUG</h2>
-<p>Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.</p>
-<p>We would like to thank the HUG, the <a href="https://www.hug.ch/patients-partenaires" target="_blank" rel="noopener noreferrer">patients partenaires</a> the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.</p>
+<p>Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients’ de-identified samples, including <img src=".\images/bloodtuberack.webp" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%" alt="blood samples that are otherwise thrown in the trash"></p>
+<p>We would like to thank the HUG, the <a href="https://www.hug.ch/patients-partenaires" target="_blank" rel="noopener noreferrer">patients partenaires</a>, the Foundation HUG but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.</p>
 <div class="columns text-center">
 <div class="column">
 <p><a href="./researchers/index.html" class="big-link-box">For Researchers</a></p>
@@ -393,17 +385,57 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="./patients/index.html" class="big-link-box">For Patients</a></p>
 </div>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src=".\images/bloodtuberack.webp" class="img-fluid figure-img" style="width:75.0%"></p>
-<figcaption>We reuse blood samples that are otherwise thrown in the trash</figcaption>
-</figure>
-</div>
 
 
-</section>
 
 </main> <!-- /main -->
+<li class="nav-item">
+
+  <a class="nav-link" id="lang-toggle" href="#" title="Switch language">
+
+    🇫🇷 FR / 🇬🇧 EN
+
+  </a>
+
+</li>
+
+
+
+<script>
+
+  document.addEventListener("DOMContentLoaded", function () {
+
+    const toggle = document.getElementById("lang-toggle");
+
+    const path = window.location.pathname;
+
+    if (toggle) {
+
+      // Update label based on current language
+
+      toggle.textContent = path.startsWith("/fr/") ? "🇬🇧 EN" : "🇫🇷 FR";
+
+      toggle.addEventListener("click", function (e) {
+
+        e.preventDefault();
+
+        if (path.startsWith("/fr/")) {
+
+          window.location.href = path.replace("/fr/", "/");
+
+        } else {
+
+          window.location.href = "/fr" + path;
+
+        }
+
+      });
+
+    }
+
+  });
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

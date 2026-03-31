@@ -42,6 +42,13 @@
     "text": "If you have signed the general consent in the past your samples could be part of BioHUG. This consent allows researchers to reuse data and samples for research, with strict privacy protection. The general consent form can be found here."
   },
   {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "BioHUG",
+    "section": "",
+    "text": "format: html\ntitle: “Bienvenue a BioHUG” lang: fr —\nNotre mission est d’aider les chercheurs à faire progresser la recherche sur les maladies et la médecine personnalisée, en partenariat avec les patients des HUG. Ce site web fournit des informations à ces patients et chercheurs des HUG. L’un de nos principaux objectifs est de faciliter la collecte et l’utilisation sécurisée d’échantillons anonymisés provenant des patients, notamment \nNous tenons à remercier les HUG, les patients partenaires, la Fondation HUG, mais surtout les patients de HUG qui ont accepté que leurs données de routine et leurs échantillons puissent être réutilisés par des chercheurs dans des conditions appropriées et sécurisées.\n\n\nPour les cherchers\n\nPour les patients"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contacts",
@@ -60,14 +67,7 @@
     "href": "index.html",
     "title": "Welcome to BioHUG",
     "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.\nWe would like to thank the HUG, the patients partenaires the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.\n\n\nFor Researchers\n\nFor Patients\n\n\n\n\n\nWe reuse blood samples that are otherwise thrown in the trash"
-  },
-  {
-    "objectID": "index.html#biohug",
-    "href": "index.html#biohug",
-    "title": "Welcome to BioHUG",
-    "section": "",
-    "text": "Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.\nWe would like to thank the HUG, the patients partenaires the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.\n\n\nFor Researchers\n\nFor Patients\n\n\n\n\n\nWe reuse blood samples that are otherwise thrown in the trash"
+    "text": "Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients’ de-identified samples, including \nWe would like to thank the HUG, the patients partenaires, the Foundation HUG but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.\n\n\nFor Researchers\n\nFor Patients"
   },
   {
     "objectID": "patients/faqs.html",
