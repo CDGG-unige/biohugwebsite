@@ -403,57 +403,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
-<script>
-
-  document.addEventListener("DOMContentLoaded", function () {
-
-    const toggle = document.getElementById("lang-toggle");
-
-    if (toggle) {
-
-      const path = window.location.pathname;
-
-      const isFrench = path.includes("/fr/");
-
-
-
-      // Update label to show which language you can switch TO
-
-      toggle.textContent = isFrench ? "🇬🇧 EN" : "🇫🇷 FR";
-
-
-
-      toggle.addEventListener("click", function (e) {
-
-        e.preventDefault();
-
-        if (isFrench) {
-
-          // Go from /fr/patients/faqs.html → /patients/faqs.html
-
-          window.location.href = path.replace("/fr/", "/");
-
-        } else {
-
-          // Go from /patients/faqs.html → /fr/patients/faqs.html
-
-          window.location.href = path.replace(
-
-            /^(\/biohugwebsite\/)(.*)$/,
-
-            "$1fr/$2"
-
-          );
-
-        }
-
-      });
-
-    }
-
-  });
-
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
