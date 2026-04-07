@@ -19,8 +19,8 @@ Oui. Vous devrez demander une autorisation éthique pour votre étude de recherc
 ### Puis-je prélever plusieurs échantillons sur un même patient ?
 
 Oui, si vous nous en informez, nous pouvons donner la priorité au prélèvement de deux échantillons ou plus chez un même patient. Nous effectuons cette opération en toute sécurité dans le système HUG, mais vous devez nous en informer, car par défaut, un seul échantillon d'ADN est prélevé par patient. 
-![Le graphique ci-dessous montre le nombre d'échantillons supplémentaires que nous aurions pu prélever entre février 2025 et mars 2026](../images/second_samples.jpg){fig-align="center" width="75%"}. 
-Par exemple, plus de 50 % (5 000) ont subi au moins un prélèvement supplémentaire, et 15 % (plus de 1 500) ont subi cinq prélèvements ou plus en un an.
+Le graphique ci-dessous montre le nombre d'échantillons supplémentaires que nous aurions pu prélever entre février 2025 et mars 2026. Par exemple, plus de 50 % (5 000) ont subi au moins un prélèvement supplémentaire, et 15 % (plus de 1 500) ont subi cinq prélèvements ou plus en un an. ![Numero d'enchantillions par patient mars 2026](../../images/second_samples.jpg){fig-align="center" width="75%"}. 
+
 :::
 
 ::: {.callout collapse="true"}
