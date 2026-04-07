@@ -1,1 +1,1 @@
-Sitemap: https://CDGG-unige.github.io/biohugwebsite/fr/sitemap.xml
+Sitemap: https://CDGG-unige.github.io/biohugwebsite/sitemap.xml
