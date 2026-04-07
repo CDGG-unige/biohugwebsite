@@ -48,6 +48,8 @@ website:
     right:
       - text: "🇫🇷 Français"
         menu:
+          - text: "Bienvenue a BioHUG"
+            href: fr/index.qmd
           - text: "Pour les patients"
             href: fr/patients/index.qmd
           - text: "Pour les chercheurs"
