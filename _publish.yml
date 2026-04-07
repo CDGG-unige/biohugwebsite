@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3a0f2358-3ad1-4303-adb5-0298395626ec
+      url: https://stately-stardust-bea776.netlify.app

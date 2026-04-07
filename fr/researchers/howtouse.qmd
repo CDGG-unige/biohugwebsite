@@ -1,0 +1,61 @@
+---
+title: "Comment utiliser BioHUG"
+format: html
+---
+
+::: {.callout collapse="true"}
+### Pouvez-vous donner la priorité aux échantillons provenant des patients participant à mon étude ou à mon registre ?
+
+Oui. Si les patients HUG participant à votre étude ou à votre registre ont signé le formulaire de consentement général et n'ont pas par la suite retiré leur consentement, nous pouvons donner la priorité à l'extraction d'ADN de leurs échantillons. Veuillez noter que la constitution de la banque d'ADN nécessite que le patient ait subi une prise de sang distincte dans le cadre de ses soins de routine au sein du canton de Genève.
+:::
+
+::: {.callout collapse="true"}
+### Dois-je obtenir une autorisation éthique supplémentaire pour utiliser BioHUG ?
+
+Oui. Vous devrez demander une autorisation éthique pour votre étude de recherche spécifique, mais BioHUG peut vous aider de plusieurs façons : 1. Si vous souhaitez constituer une banque d'ADN, nous pouvons vous aider à collecter ces échantillons auprès des patients de l'HUG ayant signé le consentement général (150 000 début 2026) de manière très économique. 2. Si votre étude ou votre registre comprend un groupe de patients de l'HUG et que vous souhaitez réutiliser les données génétiques de ceux qui figurent déjà dans BioHUG. 3. Nous pouvons vous aider à concevoir votre étude. Par exemple, si vous souhaitez commencer par des patients de l'HUG pour lesquels un échantillon d'ADN ou des données génétiques ont déjà été conservés.
+:::
+
+::: {.callout collapse="true"}
+### Puis-je prélever plusieurs échantillons sur un même patient ?
+
+Oui, si vous nous en informez, nous pouvons donner la priorité au prélèvement de deux échantillons ou plus chez un même patient. Nous effectuons cette opération en toute sécurité dans le système HUG, mais vous devez nous en informer, car par défaut, un seul échantillon d'ADN est prélevé par patient. ![Le graphique ci-dessous montre le nombre d'échantillons supplémentaires que nous aurions pu prélever entre février 2025 et mars 2026](../images/second_samples.jpg){fig-align="center" width="75%"}. 
+Par exemple, plus de 50 % (5 000) ont subi au moins un prélèvement supplémentaire, et 15 % (plus de 1 500) ont subi cinq prélèvements ou plus en un an.
+:::
+
+::: {.callout collapse="true"}
+### Existe-t-il d'autres types d'échantillons que l'ADN ?
+
+En mars 2026, non. Depuis le lancement de la biobanque d'ADN en février 2025, BioHUG n'a collecté que des échantillons d'ADN. Il sera toutefois peut-être possible, plus tard en 2026 ou en 2027, de stocker des échantillons de sérum et de plasma, et nous pourrons le faire de manière très économique, du moins pour les patients de l'HUG ayant signé le consentement général. Des frais minimes pourraient être facturés pour ce service, en fonction du résultat des demandes de financement supplémentaires.
+:::
+
+::: {.callout collapse="true"}
+### Combien ça coûte ?
+
+Aucun frais n'est à prévoir pour la conservation de l'ADN. La conservation de l'ADN est gratuite pour les chercheurs. Un financement a été alloué pour extraire l'ADN de 20 000 patients de l'HUG ayant signé le consentement général. Ce prélèvement initial sera achevé début 2027. Nous disposerons également de données génétiques pangénomiques, issues de la puce Illumina du GSAMD, pour 5 000 personnes à partir de l'été 2026. Dans l'intérêt de la sécurité des données, les données individuelles ne seront accessibles qu'aux chercheurs formés. Nous serons en mesure de fournir des données agrégées sans frais.
+
+Les données génétiques sur des échantillons supplémentaires, ainsi que la conservation de sérum et de plasma, dépendent d'un financement supplémentaire, mais nous serons en mesure de le faire de manière très rentable. Pour plus d'informations, veuillez contacter le chercheur principal de l'étude, le professeur Timothy Frayling, à l'adresse timothy.frayling\@unige.ch
+:::
+
+::: {.callout collapse="true"}
+### BioHUG est-il accrédité auprès de la plateforme suisse de biobanques ?
+
+Oui. BioHUG est accrédité par la Swiss Biobanking Platform. Plus d'informations [ici](https://swissbiobanking.ch/sbp-directory/){target="_blank" rel="noopener noreferrer"}.
+:::
+
+::: {.callout collapse="true"}
+### Quels sont les critères d'inclusion et d'exclusion pour BioHUG ?
+
+BioHUG regroupe des patients adultes atteints de la maladie de HUG qui ont signé le formulaire de consentement général en tant qu'adultes à un moment donné depuis 2017, qui n'ont pas retiré ce consentement par la suite et qui ont subi une prise de sang de routine depuis février 2025. Des échantillons provenant d'enfants peuvent être prélevés s'ils participent à des études de recherche spécifiques et ont donné leur consentement distinct pour ces études.
+:::
+
+::: {.callout collapse="true"}
+### Dans quelle mesure BioHUG est-il représentatif ?
+
+BioHUG est très représentatif de la population générale genevoise. Aucun nouveau prélèvement sanguin, aucune nouvelle question de recherche ni aucun nouveau test ne sont effectués. Cela réduit les obstacles à la participation. Nous estimons que 25 % des participants ont des origines génétiques non européennes.
+:::
+
+::: {.callout collapse="true"}
+### Puis-je conserver l'ADN de patients ne relevant pas de l'HUG, par exemple provenant d'autres régions de Suisse ?
+
+Cela serait peut-être possible avec un soutien financier supplémentaire, mais la priorité va aux patients de l'HUG.
+:::

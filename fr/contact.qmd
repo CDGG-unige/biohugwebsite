@@ -1,0 +1,17 @@
+
+---
+format: html
+title: "Contacts" 
+---
+
+## BioHUG
+
+For more information about the project, please contact the BioHUG research project team xxxxxx.
+
+For more information about donating your medical samples and data to research please see the [General consent page](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"} including additional questions [here](https://www.hug.ch/consentement-general-pour-recherche/vos-questions-frequentes-sur-consentement-general-pour){target="_blank" rel="noopener noreferrer"}
+
+
+
+
+
+

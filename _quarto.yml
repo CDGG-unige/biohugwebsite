@@ -4,14 +4,24 @@ project:
 website:
   site-url: https://CDGG-unige.github.io/biohugwebsite/
   repo-url: https://github.com/CDGG-unige/biohugwebsite/
-  
   title: "BioHUG"
+  description: "BioHUG is the biobank of the Geneva University Hospitals (HUG), supporting clinical and translational research."
+  favicon: images/DNAletters.jpg
+  open-graph:
+    title: "BioHUG — Biobank of the Geneva University Hospitals"
+    description: "A biobank supporting clinical and translational research at HUG."
+    image: images/og-preview.png
+  twitter-card:
+    title: "BioHUG"
+    description: "A biobank supporting clinical and translational research at HUG."
+    image: images/og-preview.png
+
   navbar:
     left:
       - text: "For patients"
         menu:
           - text: "What is BioHUG?"
-            href: patients/whatisbiohug.qmd
+            href: patients/index.qmd
           - text: "BioHUG FAQ"
             href: patients/faqs.qmd
           - text: "BioHUG consent"
@@ -21,11 +31,45 @@ website:
       - text: "For researchers"
         menu:
           - text: "BioHUG description"
-            href: researchers/description.qmd
+            href: researchers/index.qmd
           - text: "How to use BioHUG"
             href: researchers/howtouse.qmd
+      - text: "The team"
+        menu:
+          - text: "Meet the BioHUG team"
+            href: team.qmd
+      - text: "Studies"
+        menu:
+          - text: "BioHUG studies"
+            href: studies.qmd
+    right:
+      - text: "🇫🇷 Français"
+        menu:
+          - text: "Pour les patients"
+            href: fr/patients/index.qmd
+          - text: "Pour les chercheurs"
+            href: fr/researchers/index.qmd
+          - text: "L'équipe"
+            href: fr/team.qmd
+          - text: "Études"
+            href: fr/studies.qmd
+      - text: "🇬🇧 English"
+        href: /
+
   page-footer:
-    center: "BioHUG — Hôpitaux Universitaires de Genève (HUG)"
+    left: |
+      <a href="https://www.hug.ch" target="_blank">
+        <img src="/images/logoHUG.jpg" alt="HUG logo" height="120"/>
+      </a>
+    center: |
+      <a href="/">
+        <img src="/images/LOGO_FONDATION_V.jpg" alt="BioHUG logo" height="70"/>
+      </a>
+    right: |
+      <a href="https://www.unige.ch/medecine/" target="_blank">
+        <img src="/images/bandeau_web-homepage-150.jpg" alt="University of Geneva logo" height="70"/>
+      </a>
+
 
 format:
   html:
@@ -33,4 +77,12 @@ format:
       light:
         - flatly
         - custom.scss
+      dark:
+        - darkly
+        - custom.scss
     toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true

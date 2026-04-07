@@ -1,0 +1,18 @@
+---
+title: "L'équipe"
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+### Découvrez l'équipe
+
+BioHUG est dirigé par un groupe de chercheurs, de cliniciens et de patients de la Faculté de médecine de l'Université de Genève et des HUG. Le professeur Timothy Frayling et le Dr Aurélie Kamoun de la [Common Disease Genetics and Genomics team](https://www.unige.ch/medecine/gede/groupes/timothy-frayling){target="_blank" rel="noopener noreferrer"} coordonner l'étude. Le Dr Marina LeRoy est notre représentante des patients. La Fondation des HUG apporte un généreux soutien financier. Le [Médicine Génétic](https://www.hug.ch/medecine-genetique){target="_blank" rel="noopener noreferrer"} L'HUG met à disposition des laboratoires et M. Tiago De Sousa est notre technicien attitré.
+
+### Comité scientifique et de gestion de BioHUG
+
+L'équipe BioHUG bénéficie du soutien d'un comité scientifique local composé notamment du professeur Marc Abramowicz, de la professeure Valerie Schwitzgebel, du professeur Georg Ehret et du docteur Thomas Rio Frio
+
+### Comité consultatif scientifique international
+
+L'équipe BioHUG bénéficie du soutien de représentants de biobanques hospitalières similaires du monde entier.

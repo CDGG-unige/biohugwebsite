@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../images/DNAletters.jpg" rel="icon" type="image/jpeg">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -37,10 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-de826de6a7ce36ff4f3b5dfe968a5706.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-96479fb6444f3f408ddbf6febe49dd35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-f5489560ecd4e0849a6cd55e2ba2614b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-96479fb6444f3f408ddbf6febe49dd35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,11 +73,182 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
+<meta property="og:title" content="BioHUG — Biobank of the Geneva University Hospitals">
+<meta property="og:description" content="A biobank supporting clinical and translational research at HUG.">
+<meta property="og:image" content="https://CDGG-unige.github.io/biohugwebsite/researchers/images/og-preview.png">
+<meta property="og:site_name" content="BioHUG">
+<meta name="twitter:title" content="BioHUG">
+<meta name="twitter:description" content="A biobank supporting clinical and translational research at HUG.">
+<meta name="twitter:image" content="https://CDGG-unige.github.io/biohugwebsite/researchers/images/og-preview.png">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -97,7 +273,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-for-patients">    
         <li>
-    <a class="dropdown-item" href="../patients/whatisbiohug.html">
+    <a class="dropdown-item" href="../patients/index.html">
  <span class="dropdown-text">What is BioHUG?</span></a>
   </li>  
         <li>
@@ -120,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-for-researchers">    
         <li>
-    <a class="dropdown-item" href="../researchers/description.html">
+    <a class="dropdown-item" href="../researchers/index.html">
  <span class="dropdown-text">BioHUG description</span></a>
   </li>  
         <li>
@@ -129,9 +305,61 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-the-team" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">The team</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-the-team">    
+        <li>
+    <a class="dropdown-item" href="../team.html">
+ <span class="dropdown-text">Meet the BioHUG team</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-studies" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Studies</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-studies">    
+        <li>
+    <a class="dropdown-item" href="../studies.html">
+ <span class="dropdown-text">BioHUG studies</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-français" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">🇫🇷 Français</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-français">    
+        <li>
+    <a class="dropdown-item" href="../fr/patients/index.html">
+ <span class="dropdown-text">Pour les patients</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../fr/researchers/index.html">
+ <span class="dropdown-text">Pour les chercheurs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../fr/team.html">
+ <span class="dropdown-text">L’équipe</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../fr/studies.html">
+ <span class="dropdown-text">Études</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../"> 
+<span class="menu-text">🇬🇧 English</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -145,6 +373,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -171,13 +400,13 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">None</span>Can you prioritise samples from patients in my research study ?
+<span class="screen-reader-only">None</span>Can you prioritise samples from patients in my research study or registry ?
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Yes. If the patients in your research study have signed the general consent, and not subsequently withdrawn that consent, we can prioritise them for DNA extraction. Bear in mind that the DNA banking step relies on a patient having a separate blood test as part of their routine care.</p>
+<p>Yes. If the HUG patients in your research study or registry have signed the general consent, and not subsequently withdrawn that consent, we can prioritise their samples for DNA extraction. Note that the DNA banking step relies on a patient having a separate blood test as part of their routine care in the Canton de Geneve.</p>
 </div>
 </div>
 </div>
@@ -193,7 +422,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Yes. You will need to apply for ethical approval for your study. BioHUG can do two things to help 1. Help design your study. For example if you wish to start with patients who already have a banked DNA sample, or genome wide association data, we can provide meta data (for example summaries of numbers of patients) 2. If you have a group of patients in your study and you wish to reuse genetic data from those who are already in BioHUG.</p>
+<p>Yes. You will need to apply for ethical approval for your specific research study but BioHUG can do several things to help: 1. If you wish to make a collection of DNA, we can help collect these samples from HUG patients who have signed the general consent (150,000 in early 2026) in a very cost efficient way. 2. If you have a group of HUG patients in your study or registry and you wish to reuse genetic data from those who are already in BioHUG. 3. Help design your study. For example if you wish to start with HUG patients who already have a banked DNA sample or genetic data.</p>
 </div>
 </div>
 </div>
@@ -209,7 +438,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Yes if you let us know we can prioritise collection of 2 or more samples from the same patient. We do this securely in the HUG system, but you need to inform us because the default is to only collect one DNA sample per patient.</p>
+<p>Yes if you let us know we can prioritise collection of 2 or more samples from the same patient. We do this securely in the HUG system, but you need to inform us because the default is to only collect one DNA sample per patient. <img src="../images/second_samples.jpg" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%" alt="The below diagram shows the number of additional samples we could have collected, between February 2025 and March 2026. For example, more than 50% (5000) have had at least one additional sample, and 15% (>1500) have had 5 or more samples in one year.">.</p>
 </div>
 </div>
 </div>
@@ -225,7 +454,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>As of March 2026, no. Since beginning DNA biobanking in February 2025, BioHUG has collected only DNA samples. However, it may be possible later in 2026 or 2027 to bank serum and plasma samples.</p>
+<p>As of March 2026, no. Since beginning DNA biobanking in February 2025, BioHUG has collected only DNA samples. However, it may be possible later in 2026 or 2027 to bank serum and plasma samples and we will be able to do this in a very cost efficient way, at least from HUG patients who have signed the general consent. There may be a small charge for this, depending on the outcome of additional funding applications.</p>
 </div>
 </div>
 </div>
@@ -241,7 +470,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Nothing for DNA banking. There is no cost to researchers to bank DNA. Funding is in place to extract DNA from 20,000 HUG patients who have signed the general consent. This initial collection will be complete in early 2027. We will also have genome wide genetic data, from the GSAMD illumina array available from 5000 in summer 2026. In the interests of data security the individual level data will only be available to a limited set of trained researchers. We will be able to provide summary level data at no cost.</p>
+<p>Nothing for DNA banking. There is no cost to researchers to bank DNA. Funding is in place to extract DNA from 20,000 HUG patients who have signed the general consent. This initial collection will be complete in early 2027. We will also have genome wide genetic data, from the GSAMD Illumina array available from 5000 in summer 2026. In the interests of data security the individual level data will only be available to trained researchers. We will be able to provide summary level data at no cost.</p>
 <p>Genetic data on additional samples, and banking of serum and plasma is subject to further funding, but we will be able to do this in a very cost efficient way. For more information please contact the PI of the study Prof.&nbsp;Timothy Frayling at timothy.frayling@unige.ch</p>
 </div>
 </div>
@@ -268,13 +497,13 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">None</span>What are the inclusion and exclustion criteria for BioHUG ?
+<span class="screen-reader-only">None</span>What are the inclusion and exclusion criteria for BioHUG ?
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-7" class="callout-7-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>BioHUG consists of adult HUG patients who have signed the general consent as and adult at any point since 2017, not subsequently withdrawn that consent, and have had a routine blood test since February 2025.</p>
+<p>BioHUG consists of adult HUG patients who have signed the general consent as and adult at any point since 2017, not subsequently withdrawn that consent, and have had a routine blood test since February 2025. Samples from children may be collected if they are part of particular research studies with separate study-specific consent.</p>
 </div>
 </div>
 </div>
@@ -294,12 +523,41 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<div class="callout callout-style-simple callout-none no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">None</span>Can I bank DNA from patients outside of HUG, e.g.&nbsp;other parts of Switzerland ?
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-9" class="callout-9-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>This may be possible with some additional financial support, but the priority is HUG patients.</p>
+</div>
+</div>
+</div>
 
 
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
@@ -385,6 +643,13 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -702,18 +967,19 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p><a href="https://www.hug.ch" target="_blank"> <img src="../images/logoHUG.jpg" alt="HUG logo" height="120"> </a></p>
+</div>   
     <div class="nav-footer-center">
-<p>BioHUG — Hôpitaux Universitaires de Genève (HUG)</p>
+<p><a href="../"> <img src="../images/LOGO_FONDATION_V.jpg" alt="BioHUG logo" height="70"> </a></p>
 </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p><a href="https://www.unige.ch/medecine/" target="_blank"> <img src="../images/bandeau_web-homepage-150.jpg" alt="University of Geneva logo" height="70"> </a></p>
+</div>
   </div>
 </footer>
 
 
 
 
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

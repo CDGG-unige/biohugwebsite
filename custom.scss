@@ -1,22 +1,124 @@
-/* Pale red and pale blue theme accents */
-$primary: #9D4EDD; /* purple */
-$secondary: #7E57C2; /* another purple*/
-$success: #9fd5b3; /* mint */
-$info: #a9cce3; /* sky */
-$warning: #f8c471; /* warm amber */
-$danger: #e57373; /* soft red */
-$navbar-bg: $secondary;
-$navbar-fg: #ffffff;
-$link-color: $secondary;
-$link-hover-color: darken($secondary, 10%);
-$footer-bg: $primary;
-$footer-fg: #ffffff;
-
 /*-- scss:defaults --*/
 
-body {
-  background: 	#F3E5F5	;
-}
+// Warm purple colour palette
+$body-bg:               #f0ebf8;   // warm light purple background
+$navbar-bg:             #4a2c6e;   // dark rich purple navbar
+$navbar-fg:             #ffffff;   // white navbar text
+$footer-bg:             #ffffff;   // white footer background
+$footer-fg:             #4a2c6e;   // dark purple footer text
+
+// Typography colours
+$body-color:            #2d1f3d;   // deep purple for body text (easier to read than black on purple bg)
+$link-color:            #7b4fa6;   // medium purple for links
+$link-hover-color:      #4a2c6e;   // dark purple on hover
+
+// Headings
+$headings-color:        #4a2c6e;   // dark purple headings
+
+// Accent / primary colour (used by buttons, active states, etc.)
+$primary:               #7b4fa6;   // medium purple
+$secondary:             #a07cc5;   // soft lavender
+
+// TOC
+$toc-color:             $link-color;
+$toc-active-border:     $primary;
 
 /*-- scss:rules --*/
 
+// Navbar refinements
+.navbar {
+  box-shadow: 0 2px 8px rgba(74, 44, 110, 0.3);
+
+  .navbar-brand img {
+    filter: brightness(0) invert(1); // makes logo white if it's dark
+  }
+
+  .nav-link {
+    color: rgba(255, 255, 255, 0.85) !important;
+    font-weight: 500;
+    &:hover {
+      color: #ffffff !important;
+    }
+  }
+
+  .dropdown-menu {
+    background-color: #3b2057;
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+
+    .dropdown-item {
+      color: rgba(255, 255, 255, 0.85);
+      &:hover {
+        background-color: #4a2c6e;
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+// Footer refinements
+.nav-footer {
+  background-color: #ffffff !important;
+  border-top: 2px solid #d4c4e8;
+  color: #4a2c6e;
+  padding: 1.2rem 0;
+
+  a {
+    color: #7b4fa6;
+    &:hover {
+      color: #4a2c6e;
+    }
+  }
+
+  img {
+    opacity: 0.85;
+    transition: opacity 0.2s ease;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+// Page body
+body {
+  background-color: $body-bg;
+}
+
+// Main content area — slightly lighter card-like background
+main.content {
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 8px;
+  padding: 2rem;
+  margin-top: 1rem;
+  box-shadow: 0 2px 12px rgba(74, 44, 110, 0.08);
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: $headings-color;
+}
+
+h2 {
+  border-bottom: 2px solid #d4c4e8;
+  padding-bottom: 0.4rem;
+}
+
+// Buttons
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  &:hover {
+    background-color: $navbar-bg;
+    border-color: $navbar-bg;
+  }
+}
+
+// TOC sidebar
+#TOC {
+  border-left: 3px solid #d4c4e8;
+
+  .active {
+    color: $primary !important;
+    font-weight: 600;
+  }
+}

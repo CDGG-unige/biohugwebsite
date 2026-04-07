@@ -3,11 +3,9 @@ format: html
 title: "Welcome to BioHUG" 
 ---
 
-## BioHUG
+Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients' de-identified samples, including blood samples that are otherwise thrown in the trash  ![blood samples that are otherwise thrown in the trash](/images/bloodtuberack.webp){fig-align="center" width="75%"}
 
-Welcome to the BioHUG project at the Hôpitaux Universitaires de Genève (HUG). This site provides information for patients and researchers.
-
-We would like to thank the HUG, the [patientes partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"} the Foundation HUG and patients for support but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate conditions.
+We would like to thank the HUG, the [patients partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}, the Foundation HUG but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.
 
 ::: {.columns .text-center}
 
@@ -21,5 +19,4 @@ We would like to thank the HUG, the [patientes partenaires](https://www.hug.ch/p
 
 :::
 
-![The initial funding for the BioHUG set up comes from the HUG foundation](images/LOGO_FONDATION_V.jpg){fig-align="center" width="15%"}
 

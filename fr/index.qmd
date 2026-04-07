@@ -1,0 +1,18 @@
+---
+format: html
+title: "Bienvenue a BioHUG" 
+---
+
+Notre mission est d'aider les chercheurs à faire progresser la recherche sur les maladies et la médecine personnalisée, en partenariat avec les patients des HUG. Ce site web fournit des informations à ces patients et chercheurs des HUG. L'un de nos principaux objectifs est de faciliter la collecte et l'utilisation sécurisée d'échantillons anonymisés provenant des patients, y compris des échantillons de sang qui, autrement, finiraient à la poubelle ![des échantillons de sang qui, autrement, finiraient à la poubelle](images/bloodtuberack.webp){fig-align="center" width="75%"}
+
+Nous tenons à remercier les HUG, les [patients partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}, la Fondation HUG, mais surtout les patients de HUG qui ont accepté que leurs données de routine et leurs échantillons puissent être réutilisés par des chercheurs dans des conditions appropriées et sécurisées.
+
+::::: {.columns .text-center}
+::: column
+<a href="researchers/index.qmd" class="big-link-box">Pour les cherchers </a>
+:::
+
+::: column
+<a href="patients/index.qmd" class="big-link-box">Pour les patients</a>
+:::
+:::::

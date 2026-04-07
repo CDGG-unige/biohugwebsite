@@ -1,0 +1,14 @@
+---
+title: "Etudes"
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+### BioHUG entretient des liens étroits avec de nombreux autres projets de recherche et chercheurs genevois
+
+En produisant et en conservant des échantillons d'ADN de manière économique, BioHUG apporte son soutien à de nombreux autres projets de recherche et chercheurs basés à Genève. Parmi ceux-ci, on peut citer Prof. [Caroline Samer](https://www.hug.ch/pharmacologie-toxicologie-cliniques/pre-caroline-samer){target="_blank" rel="noopener noreferrer"} , qui dirige des études « pharmacogénomiques » sur les effets indésirables des médicaments et sur les raisons pour lesquelles certains traitements ne fonctionnent pas chez certains patients.
+
+Nous travaillons également en étroite collaboration avec le [SIMED team](https://www.unige.ch/medecine/simed/){target="_blank" rel="noopener noreferrer"} notamment Dr [Mina Bjelogrlic](https://www.unige.ch/medecine/simed/en/simed-team/data-team/mina-bjelogrlic){target="_blank" rel="noopener noreferrer"} et Prof [Christian Lovis](https://www.unige.ch/medecine/simed/en/simed-team/management-and-administration/christian-lovis){target="_blank" rel="noopener noreferrer"} afin de permettre aux chercheurs d'exploiter les données relatives aux maladies issues des dossiers médicaux.
+
+« CALIBRATE » est un projet de recherche dirigé par Dr [Aurelie Kamoun](https://www.unige.ch/medecine/gede/en/research-groups/timothy-frayling/group-members/aurelie-kamoun){target="_blank" rel="noopener noreferrer"}, Dr [Christophe Gaudet-Blavignac](https://www.unige.ch/medecine/simed/en/simed-team/data-team/christophe-gaudet-blavignac-phd){target="_blank" rel="noopener noreferrer"} et Prof. [Christian Lovis](https://www.unige.ch/medecine/simed/en/simed-team/management-and-administration/christian-lovis){target="_blank" rel="noopener noreferrer"}, qui permettra de déterminer si et dans quelle mesure les biomarqueurs cliniques mesurés de manière systématique doivent être recalibrés pour s'aligner sur des plages de référence plus personnalisées.

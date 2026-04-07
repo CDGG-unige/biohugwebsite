@@ -1,0 +1,34 @@
+---
+title: "Qu'est-ce que BioHUG ? "
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+BioHUG est la collection, ou « banque », d’échantillons humains anonymisés de l’Hôpital universitaire de Genève (voir ci-dessous pour plus de détails sur l’anonymisation). Ces échantillons comprennent notamment ceux contenant de l’ADN. Ils proviennent de patients ayant signé le [consentement general](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. et ont donc autorisé les chercheurs à utiliser leurs données médicales et leurs échantillons anonymisés à des fins de recherche. **Les patients peuvent revenir sur leur décision à tout moment en contactant** : aider-la-recherche\@hcuge.ch or telephone: 022 372 91 57 .
+
+### Pourquoi BioHUG collecte-t-il de l'ADN ?
+
+L'ADN est présent dans presque toutes les cellules du corps humain et sert de plan directeur qui détermine la structure et le fonctionnement de l'organisme. De minuscules variations de l'ADN hérité de vos parents influencent la couleur de vos cheveux et de vos yeux, votre taille et votre poids, votre risque de développer certaines maladies, ainsi que votre capacité à répondre à des traitements.
+
+Les chercheurs utilisent des échantillons d'ADN pour comprendre pourquoi certaines maladies touchent certaines personnes ou pourquoi un médicament est plus efficace chez certaines personnes que chez d'autres. Cette approche de la compréhension des maladies, qui repose sur des données humaines et des échantillons d'ADN, est extrêmement importante pour la recherche médicale et est largement utilisée à travers le monde pour rechercher de nouveaux traitements et réduire les effets secondaires potentiels.
+
+### Comment fonctionne BioHUG ?
+
+Lors d’une prise de sang de routine – par exemple pour contrôler votre taux de cholestérol ou l’état de vos reins –, il reste souvent un peu de sang. Ce sang non utilisé est généralement jeté au bout de quelques jours. Dans le cadre de BioHUG, nous collectons ces résidus d’échantillons sanguins auprès de personnes ayant signé le consentement général, puis nous en extrayons l’ADN dans les laboratoires des HUG.
+
+Début 2026, plus de 150 000 Genevois avaient déjà signé le consentement général autorisant la réutilisation de leurs données médicales et de leurs échantillons à des fins de recherche. BioHUG vise à constituer une banque d’ADN provenant de 20 000 de ces personnes d’ici début 2027. Cela fera de BioHUG le plus grand projet de recherche biomédicale à Genève et l’un des plus importants en Europe mené par un seul hôpital.
+
+### Quels sont les objectifs de BioHUG ?
+
+BioHUG n'est pas un projet de recherche spécifique. Son objectif est plutôt de jeter les bases de nouveaux projets de recherche. Ces projets pourraient porter sur de nombreuses maladies et réponses aux traitements différentes et consisteront généralement à croiser des données génétiques avec des données médicales afin de mieux comprendre la maladie. « CALIBRATE » est l'un des premiers projets de recherche issus de BioHUG.
+
+### Comment puis-je m'inscrire à BioHUG ?
+
+Il n'est pas nécessaire de vous réinscrire à l'étude si vous avez déjà signé le formulaire de consentement général. Cela signifie qu'aucun nouveau prélèvement sanguin ni aucune nouvelle information ne sont requis.
+
+### Quels sont les avantages pour les patients ?
+
+Il n'y a pas d'avantages directs immédiats pour les patients individuels et nous ne pouvons pas vous communiquer d'informations, car les analyses d'ADN ne sont pas effectuées par des cliniciens, mais par des chercheurs. En revanche, participer à BioHUG, c'est contribuer à la découverte de nouveaux liens entre les gènes et les maladies. Ces nouveaux liens peuvent ensuite être vérifiés dans le cadre d'études distinctes. D'autres hôpitaux à travers le monde disposent de banques d'ADN très similaires, regroupant des dizaines de milliers de patients, et celles-ci sont utilisées pour faire des découvertes importantes qui font ensuite l'objet de vérifications plus approfondies. Par exemple, une étude récente utilisant plusieurs « banques » d'ADN similaires a mis en évidence un lien entre des mutations d'un certain gène et des diagnostics erronés de diabète. [Diabetes](https://www.ukbiobank.ac.uk/research-stories/hidden-genetic-condition-means-many-black-men-get-diabetes-diagnoses-too-late/){target="_blank" rel="noopener noreferrer"}.
+
+Pour plus d'informations, consultez le page [Frequently asked questions](faqs.qmd)
