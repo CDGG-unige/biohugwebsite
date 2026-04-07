@@ -12,17 +12,15 @@ Yes. If the HUG patients in your research study or registry have signed the gene
 ::: {.callout collapse="true"}
 ### Will I need additional ethical approval to use BioHUG ?
 
-Yes. You will need to apply for ethical approval for your specific research study but BioHUG can do several things to help: 
-1. If you wish to make a collection of DNA, we can help collect these samples from HUG patients who have signed the general consent (150,000 in early 2026) in a very cost efficient way. 
-2. If you have a group of HUG patients in your study or registry and you wish to reuse genetic data from those who are already in BioHUG. 
-3. Help design your study. For example if you wish to start with HUG patients who already have a banked DNA sample or genetic data.
+Yes. You will need to apply for ethical approval for your specific research study but BioHUG can do several things to help: 1. If you wish to make a collection of DNA, we can help collect these samples from HUG patients who have signed the general consent (150,000 in early 2026) in a very cost efficient way. 2. If you have a group of HUG patients in your study or registry and you wish to reuse genetic data from those who are already in BioHUG. 3. Help design your study. For example if you wish to start with HUG patients who already have a banked DNA sample or genetic data.
 :::
 
 ::: {.callout collapse="true"}
 ### Can I collect more than one sample from the same patient ?
 
-Yes if you let us know we can prioritise collection of 2 or more samples from the same patient. We do this securely in the HUG system, but you need to inform us because the default is to only collect one DNA sample per patient. ![The below diagram shows the number of additional samples we could have collected, between February 2025 and March 2026. For example, more than 50% (5000) have had at least one additional sample, and 15% (\>1500) have had 5 or more samples in one year.](../images/second_samples.jpg){fig-align="center" width="75%"}. 
-
+Yes if you let us know we can prioritise collection of 2 or more samples from the same patient. We do this securely in the HUG system, but you need to inform us because the default is to only collect one DNA sample per patient.
+![The below diagram shows the number of additional samples we could have collected, between February 2025 and March 2026](../images/second_samples.jpg){fig-align="center" width="75%"}.
+For example, more than 50% (5000) have had at least one additional sample, and 15% (\>1500) have had 5 or more samples in one year.
 :::
 
 ::: {.callout collapse="true"}
