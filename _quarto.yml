@@ -1,11 +1,12 @@
 project:
   type: website
-  
+  output-dir: _site
+
 execute:
   freeze: auto
 
 website:
-  site-url: https://CDGG-unige.github.io/biohugwebsite/
+  site-url: https://biohug.netlify.app
   repo-url: https://github.com/CDGG-unige/biohugwebsite/
   title: "BioHUG"
   description: "BioHUG is the biobank of the Geneva University Hospitals (HUG), supporting clinical and translational research."
@@ -52,29 +53,30 @@ website:
       - text: "🇫🇷 Français"
         menu:
           - text: "Pour les patients"
-            href: fr/patients/index.qmd
+            href: /fr/patients/index.html
           - text: "Pour les chercheurs"
-            href: fr/researchers/index.qmd
+            href: /fr/researchers/index.html
           - text: "L'équipe"
-            href: fr/team.qmd
+            href: /fr/team.html
           - text: "Études"
-            href: fr/studies.qmd
+            href: /fr/studies.html
           - text: "Governance"
-            href: fr/researchers/governance.qmd
+            href: /fr/researchers/governance.html
       - text: "🇬🇧 English"
         menu:
           - text: "Welcome to BioHUG"
-            href: welcome.qmd
+            href: /welcome.html
           - text: "Patients"
-            href: patients/index.qmd
+            href: /patients/index.html
           - text: "Researchers"
-            href: researchers/index.qmd
+            href: /researchers/index.html
           - text: "The team"
-            href: team.qmd
+            href: /team.html
           - text: "Studies"
-            href: studies.qmd
+            href: /studies.html
           - text: "Governance"
-            href: researchers/governance.qmd
+            href: /researchers/governance.html
+
   page-footer:
     left: |
       <a href="https://www.hug.ch" target="_blank">
@@ -89,9 +91,9 @@ website:
         <img src="/images/bandeau_web-homepage-150.jpg" alt="University of Geneva logo" height="70"/>
       </a>
 
-
 format:
   html:
+    lang: fr
     theme:
       light:
         - flatly
