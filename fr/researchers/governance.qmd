@@ -19,7 +19,7 @@ BioHUG bénéficie du statut de la plateforme suisse de biobanques VITA [Downloa
 
 Le comité de direction de BioHUG supervise les activités de BioHUG. Ce comité local est composé de cliniciens des HUG, de chercheurs cliniques et d'un représentant des patients.
 
-# Participation des patients 
+# Participation des patients
 
 Nous impliquons les patients dans BioHUG en organisant régulièrement des réunions avec les HUG [patients partenaires forum](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}
 

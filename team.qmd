@@ -17,4 +17,4 @@ The BioHUG team are supported by a local scientific committee including Prof Mar
 
 The BioHUG team are supported by representatives from similar Hospital Biobanks from around the world.
 
-For more details on BioHUG governance see the [Governance](researchers/governance.qmd.qmd) page.
+For more details on BioHUG governance see the [Governance](researchers/governance.qmd) page.
