@@ -3,7 +3,7 @@ title: "FAQs"
 format: html
 ---
 
-## Frequently Asked Questions
+## Questions Fréquemment Posées
 
 ::: {.callout collapse="true"}
 ### Comment mon ADN peut-il être prélevé et utilisé à des fins de recherche ? ?

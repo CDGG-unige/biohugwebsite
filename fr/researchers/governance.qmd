@@ -1,0 +1,32 @@
+---
+title: "BioHUG governance"
+editor: visual
+---
+
+# Approbation de BioHUG
+
+En 2023, la direction médicale de l'HUG a approuvé des mesures visant à identifier les échantillons sanguins provenant de patients de l'HUG ayant signé le consentement général. Début 2024, le [CCER](https://www.ge.ch/ccer-obtenir-autorisation-recherche-medicale-etre-humain){target="_blank" rel="noopener noreferrer"} a été consulté lors de la phase de planification de la biobanque BioHUG, où il a donné son avis sur le processus de conservation des échantillons d'ADN à l'HUG.
+
+# Comité d'éthique de la recherche du canton de Genève
+
+[CCER](https://www.ge.ch/ccer-obtenir-autorisation-recherche-medicale-etre-humain){target="_blank" rel="noopener noreferrer"} Les demandes sont soumises à chaque mise à jour de BioHUG. En mars 2026, ces mises à jour comprenaient l'autorisation de relier et de hiérarchiser les échantillons provenant d'études de recherche et de registres, ainsi que l'autorisation pour le premier projet portant sur des données génétiques, « CALIBRATE ».
+
+# Accréditation de la plateforme suisse de biobanques
+
+BioHUG bénéficie du statut de la plateforme suisse de biobanques VITA [Download PDF](../images/Certificat_VITA_BioHUG.pdf.pdf) qui atteste de notre conformité aux normes suisses en matière de biobanques d'échantillons humains. Nous suivons également les recommandations du Réseau suisse pour la santé personnalisée, notamment son approche concernant les [découvertes fortuites](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"}. Nous suivons également de près les travaux menés dans le cadre d'autres projets de biobanques, ainsi que leur approche en matière de gouvernance des données et de retour d'information aux participants, notamment [Genomics England](https://www.genomicsengland.co.uk/patients-participants/data){target="_blank" rel="noopener noreferrer"} et [Our Future Health](https://ourfuturehealth.org.uk/){target="_blank" rel="noopener noreferrer"}
+
+# Contrôle local
+
+Le comité de direction de BioHUG supervise les activités de BioHUG. Ce comité local est composé de cliniciens des HUG, de chercheurs cliniques et d'un représentant des patients.
+
+# Participation des patients 
+
+Nous impliquons les patients dans BioHUG en organisant régulièrement des réunions avec les HUG [patients partenaires forum](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}
+
+# Comité consultatif scientifique international
+
+Notre CCSI est composé d'experts issus d'autres hôpitaux du monde entier qui disposent de biobanques similaires, notamment [BioVU](https://victr.vumc.org/what-is-biovu/){target="_blank" rel="noopener noreferrer"}, [BioME](https://www.nature.com/articles/d42473-022-00272-1){target="_blank" rel="noopener noreferrer"} and [SHARE](https://www.registerforshare.org/){target="_blank" rel="noopener noreferrer"}.
+
+# Projets de recherche
+
+Tous les chercheurs souhaitant utiliser les échantillons ou les données provenant de BioHUG doivent obtenir une autorisation éthique spécifique pour leur projet auprès de la [Comité d'éthique de la recherche du canton de Genève (CCER)](https://www.ge.ch/ccer-obtenir-autorisation-recherche-medicale-etre-humain){target="_blank" rel="noopener noreferrer"}

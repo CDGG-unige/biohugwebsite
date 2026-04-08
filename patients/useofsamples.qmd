@@ -10,3 +10,5 @@ Below are a series of diagrams that illustrate some of the ways we measure DNA a
 ![We can measure these SNPs and other types of variation in your DNA in several different ways. In the future we hope to be able to sequence, or read, the full code using an approach called "whole genome sequencing](../images/DNA-Test-768x818.jpg){fig-align="center" width="50%"}
 
 ![We may also measure other factors in your blood sample, a part of the blood called "plasma"](../images/PTest-768x783.jpg){fig-align="center" width="50%"}
+
+The images above come from the [web site](https://victr.vumc.org/what-is-biovu/){target="_blank" rel="noopener noreferrer"}.

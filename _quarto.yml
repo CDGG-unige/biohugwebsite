@@ -21,35 +21,36 @@ website:
 
   navbar:
     left:
-      - text: "For patients"
+      - text: "Pour les patients"
         menu:
-          - text: "What is BioHUG?"
-            href: patients/index.qmd
-          - text: "BioHUG FAQ"
-            href: patients/faqs.qmd
-          - text: "BioHUG consent"
-            href: patients/consent.qmd
-          - text: "Use of BioHUG samples"
-            href: patients/useofsamples.qmd
-      - text: "For researchers"
+          - text: "Qu'est-ce que BioHUG ?"
+            href: /fr/patients/index.html
+          - text: "FAQ BioHUG"
+            href: /fr/patients/faqs.html
+          - text: "Consentement BioHUG"
+            href: /fr/patients/consent.html
+          - text: "Utilisation des échantillons"
+            href: /fr/patients/useofsamples.html
+      - text: "Pour les chercheurs"
         menu:
-          - text: "BioHUG description"
-            href: researchers/index.qmd
-          - text: "How to use BioHUG"
-            href: researchers/howtouse.qmd
-      - text: "The team"
+          - text: "Description de BioHUG"
+            href: /fr/researchers/index.html
+          - text: "Comment utiliser BioHUG"
+            href: /fr/researchers/howtouse.html
+          - text: "Governance"
+            href: /fr/researchers/governance.html
+      - text: "L'équipe"
         menu:
-          - text: "Meet the BioHUG team"
-            href: team.qmd
-      - text: "Studies"
+          - text: "Rencontrez l'équipe BioHUG"
+            href: /fr/team.html
+      - text: "Études"
         menu:
-          - text: "BioHUG studies"
-            href: studies.qmd
+          - text: "Études BioHUG"
+            href: /fr/studies.html
+
     right:
       - text: "🇫🇷 Français"
         menu:
-          - text: "Bienvenue a BioHUG"
-            href: fr/index.qmd
           - text: "Pour les patients"
             href: fr/patients/index.qmd
           - text: "Pour les chercheurs"
@@ -58,9 +59,22 @@ website:
             href: fr/team.qmd
           - text: "Études"
             href: fr/studies.qmd
+          - text: "Governance"
+            href: fr/researchers/governance.qmd
       - text: "🇬🇧 English"
-        href: /
-
+        menu:
+          - text: "Welcome to BioHUG"
+            href: welcome.qmd
+          - text: "Patients"
+            href: patients/index.qmd
+          - text: "Researchers"
+            href: researchers/index.qmd
+          - text: "The team"
+            href: team.qmd
+          - text: "Studies"
+            href: studies.qmd
+          - text: "Governance"
+            href: researchers/governance.qmd
   page-footer:
     left: |
       <a href="https://www.hug.ch" target="_blank">

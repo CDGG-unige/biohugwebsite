@@ -5,7 +5,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-BioHUG est la collection, ou « banque », d’échantillons humains anonymisés de l’Hôpital universitaire de Genève (voir ci-dessous pour plus de détails sur l’anonymisation). Ces échantillons comprennent notamment ceux contenant de l’ADN. Ils proviennent de patients ayant signé le [consentement general](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. et ont donc autorisé les chercheurs à utiliser leurs données médicales et leurs échantillons anonymisés à des fins de recherche. **Les patients peuvent revenir sur leur décision à tout moment en contactant** : aider-la-recherche\@hcuge.ch or telephone: 022 372 91 57 .
+BioHUG est la collection, ou « banque », d’échantillons humains de-identifier de l’Hôpital universitaire de Genève (voir ci-dessous pour plus de détails sur le de-identification). Ces échantillons comprennent notamment ceux contenant de l’ADN. Ils proviennent de patients ayant signé le [consentement general](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. et ont donc autorisé les chercheurs à utiliser leurs données médicales et leurs échantillons anonymisés à des fins de recherche. **Les patients peuvent revenir sur leur décision à tout moment en contactant** : aider-la-recherche\@hcuge.ch or telephone: 022 372 91 57 .
 
 ### Pourquoi BioHUG collecte-t-il de l'ADN ?
 
@@ -31,4 +31,4 @@ Il n'est pas nécessaire de vous réinscrire à l'étude si vous avez déjà sig
 
 Il n'y a pas d'avantages directs immédiats pour les patients individuels et nous ne pouvons pas vous communiquer d'informations, car les analyses d'ADN ne sont pas effectuées par des cliniciens, mais par des chercheurs. En revanche, participer à BioHUG, c'est contribuer à la découverte de nouveaux liens entre les gènes et les maladies. Ces nouveaux liens peuvent ensuite être vérifiés dans le cadre d'études distinctes. D'autres hôpitaux à travers le monde disposent de banques d'ADN très similaires, regroupant des dizaines de milliers de patients, et celles-ci sont utilisées pour faire des découvertes importantes qui font ensuite l'objet de vérifications plus approfondies. Par exemple, une étude récente utilisant plusieurs « banques » d'ADN similaires a mis en évidence un lien entre des mutations d'un certain gène et des diagnostics erronés de diabète. [Diabetes](https://www.ukbiobank.ac.uk/research-stories/hidden-genetic-condition-means-many-black-men-get-diabetes-diagnoses-too-late/){target="_blank" rel="noopener noreferrer"}.
 
-Pour plus d'informations, consultez le page [Frequently asked questions](faqs.qmd)
+Pour plus d'informations, consultez le page [Questions Fréquemment Posées](faqs.qmd)

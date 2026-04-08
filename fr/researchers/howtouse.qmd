@@ -12,7 +12,12 @@ Oui. Si les patients HUG participant à votre étude ou à votre registre ont si
 ::: {.callout collapse="true"}
 ### Dois-je obtenir une autorisation éthique supplémentaire pour utiliser BioHUG ?
 
-Oui. Vous devrez demander une autorisation éthique pour votre étude de recherche spécifique, mais BioHUG peut vous aider de plusieurs façons : 1. Si vous souhaitez constituer une banque d'ADN, nous pouvons vous aider à collecter ces échantillons auprès des patients de l'HUG ayant signé le consentement général (150 000 début 2026) de manière très économique. 2. Si votre étude ou votre registre comprend un groupe de patients de l'HUG et que vous souhaitez réutiliser les données génétiques de ceux qui figurent déjà dans BioHUG. 3. Nous pouvons vous aider à concevoir votre étude. Par exemple, si vous souhaitez commencer par des patients de l'HUG pour lesquels un échantillon d'ADN ou des données génétiques ont déjà été conservés.
+Oui. Vous devrez demander une autorisation éthique pour votre étude de recherche spécifique, mais BioHUG peut vous aider de plusieurs façons : 
+1. Si vous souhaitez constituer une banque d'ADN, nous pouvons vous aider à collecter ces échantillons auprès des patients de l'HUG ayant signé le consentement général (150 000 début 2026) de manière très économique. 
+
+2. Si votre étude ou votre registre comprend un groupe de patients de l'HUG et que vous souhaitez réutiliser les données génétiques de ceux qui figurent déjà dans BioHUG. 
+
+3. Nous pouvons vous aider à concevoir votre étude. Par exemple, si vous souhaitez commencer par des patients de l'HUG pour lesquels un échantillon d'ADN ou des données génétiques ont déjà été conservés.
 :::
 
 ::: {.callout collapse="true"}

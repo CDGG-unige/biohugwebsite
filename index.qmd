@@ -1,22 +1,18 @@
 ---
 format: html
-title: "Welcome to BioHUG" 
+title: "Bienvenue a BioHUG" 
 ---
 
-Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients' de-identified samples, including blood samples that are otherwise thrown in the trash  ![blood samples that are otherwise thrown in the trash](/images/bloodtuberack.webp){fig-align="center" width="75%"}
+Notre mission est d'aider les chercheurs à faire progresser la recherche sur les maladies et la médecine personnalisée, en partenariat avec les patients des HUG. Ce site web fournit des informations à ces patients et chercheurs des HUG. L'un de nos principaux objectifs est de faciliter la collecte et l'utilisation sécurisée d'échantillons de-identifier provenant des patients, y compris des échantillons de sang qui, autrement, finiraient à la poubelle ![des échantillons de sang qui, autrement, finiraient à la poubelle](images/bloodtuberack.webp){fig-align="center" width="75%"}
 
-We would like to thank the HUG, the [patients partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}, the Foundation HUG but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.
+Nous tenons à remercier les HUG, les [patients partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}, la Fondation HUG, mais surtout les patients de HUG qui ont accepté que leurs données de routine et leurs échantillons puissent être réutilisés par des chercheurs dans des conditions appropriées et sécurisées.
 
-::: {.columns .text-center}
-
-::: {.column}
-<a href="researchers/index.qmd" class="big-link-box">For Researchers</a>
+::::: {.columns .text-center}
+::: column
+<a href="fr/researchers/index.qmd" class="big-link-box">Pour les cherchers </a>
 :::
 
-::: {.column}
-<a href="patients/index.qmd" class="big-link-box">For Patients</a>
+::: column
+<a href="fr/patients/index.qmd" class="big-link-box">Pour les patients</a>
 :::
-
-:::
-
-
+:::::

@@ -11,8 +11,10 @@ BioHUG est dirigé par un groupe de chercheurs, de cliniciens et de patients de 
 
 ### Comité scientifique et de gestion de BioHUG
 
-L'équipe BioHUG bénéficie du soutien d'un comité scientifique local composé notamment du professeur Marc Abramowicz, de la professeure Valerie Schwitzgebel, du professeur Georg Ehret et du docteur Thomas Rio Frio
+L'équipe BioHUG bénéficie du soutien d'un comité scientifique local composé notamment du professeur Marc Abramowicz, de la professeure Valerie Schwitzgebel, du professeur Georg Ehret, du docteur Thomas Rio Frio et Dr Julien Virzi.
 
 ### Comité consultatif scientifique international
 
 L'équipe BioHUG bénéficie du soutien de représentants de biobanques hospitalières similaires du monde entier.
+
+Pour plus d'informations sur la gouvernance, veuillez consulter la page [Governance](researchers/governance.qmd) page.
