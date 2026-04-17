@@ -28,7 +28,9 @@ BioHUG takes patient privacy very seriously. This is why all the samples from pa
 ::: {.callout collapse="true"}
 ### Will someone let me know if something is found in my left over sample ?
 
-No. The reuse of your samples and data for research helps research progress for the benefit of society, rather than you receiving immediate direct personal benefit.
+No. The reuse of your samples and data for research purposes helps to advance research for the benefit of society, rather than providing you with a direct and immediate personal benefit. The genetic data we process from your sample does not constitute a clinically validated result. However, we follow the guidelines of the [Swiss Personalised Health Network (SPHN)](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"} and we are closely monitoring the approach taken by other large-scale human genetics projects, notably [Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings){target="_blank" rel="noopener noreferrer"}. 
+
+In rare cases, it may happen that relevant findings are discovered for which treatments or preventive measures are available. In such cases, you will be informed accordingly.
 
 :::
 

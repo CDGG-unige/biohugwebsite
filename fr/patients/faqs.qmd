@@ -17,6 +17,7 @@ Début 2026, plus de 150 000 Genevois avaient signé le consentement général a
 ### Qui peut participer ?
 
 Si vous avez signé le consentement général à un moment donné dans le passé et que vous ne l'avez pas retiré par la suite, vos échantillons pourraient faire partie de BioHUG.
+
 :::
 
 ::: {.callout collapse="true"}
@@ -28,7 +29,10 @@ BioHUG accorde une grande importance à la confidentialité des patients. C'est 
 ::: {.callout collapse="true"}
 ### Quelqu'un pourrait-il me prévenir si on trouve quelque chose dans mon échantillon restant ?
 
-Non. La réutilisation de vos échantillons et de vos données à des fins de recherche contribue à faire avancer la recherche dans l'intérêt de la société, plutôt que de vous procurer un avantage personnel direct et immédiat.
+Non. La réutilisation de vos échantillons et de vos données à des fins de recherche contribue à faire progresser la recherche au profit de la société, plutôt que de vous apporter un bénéfice personnel direct et immédiat. Les données génétiques que nous traitons à partir de votre échantillon ne constituent pas un résultat cliniquement validé. Cependant, nous nous appuyons sur les directives du [Réseau suisse de santé personnalisée (SPHN)](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"} et suivons de près l’approche adoptée par d’autres projets de génétique humaine à grande échelle, notamment [Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings){target="_blank" rel="noopener noreferrer"}.  
+
+Dans de rares cas, il pourrait toutefois arriver que des résultats pertinents, pour lesquels des traitements ou des mesures de prévention sont disponibles, soient découverts. Dans ce cas, vous recevrez les informations à ce sujet.
+
 
 :::
 

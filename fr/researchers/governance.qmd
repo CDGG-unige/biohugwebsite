@@ -11,7 +11,7 @@ En 2023, la direction médicale de l'HUG a approuvé des mesures visant à ident
 
 [CCER](https://www.ge.ch/ccer-obtenir-autorisation-recherche-medicale-etre-humain){target="_blank" rel="noopener noreferrer"} Les demandes sont soumises à chaque mise à jour de BioHUG. En mars 2026, ces mises à jour comprenaient l'autorisation de relier et de hiérarchiser les échantillons provenant d'études de recherche et de registres, ainsi que l'autorisation pour le premier projet portant sur des données génétiques, « CALIBRATE ».
 
-# Accréditation de la plateforme suisse de biobanques
+# La plateforme suisse de biobanques
 
 BioHUG bénéficie du statut de la plateforme suisse de biobanques VITA [Download PDF](../images/Certificat_VITA_BioHUG.pdf.pdf) qui atteste de notre conformité aux normes suisses en matière de biobanques d'échantillons humains. Nous suivons également les recommandations du Réseau suisse pour la santé personnalisée, notamment son approche concernant les [découvertes fortuites](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"}. Nous suivons également de près les travaux menés dans le cadre d'autres projets de biobanques, ainsi que leur approche en matière de gouvernance des données et de retour d'information aux participants, notamment [Genomics England](https://www.genomicsengland.co.uk/patients-participants/data){target="_blank" rel="noopener noreferrer"} et [Our Future Health](https://ourfuturehealth.org.uk/){target="_blank" rel="noopener noreferrer"}
 
