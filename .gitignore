@@ -3,3 +3,6 @@
 .Rproj.user
 /_site/
 .claude/
+renv/
+renv.lock
+.Rprofile
