@@ -3,7 +3,7 @@ format: html
 title: "Welcome to BioHUG" 
 ---
 
-Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients' de-identified samples, including blood samples that are otherwise thrown in the trash  ![blood samples that are otherwise thrown in the trash](/images/bloodtuberack.webp){fig-align="center" width="75%"}
+Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients' de-identified samples, including blood samples that are otherwise thrown in the trash blood samples that are otherwise thrown in the trash. These samples will be safely stored so that researchers can use them to measure important factors related to disease. These factors will include genetic variations that can influence disease and response to treatments ![.](/images/bloodtuberack.webp){fig-align="center" width="75%"}
 
 We would like to thank the HUG, the [patients partenaires](https://www.hug.ch/patients-partenaires){target="_blank" rel="noopener noreferrer"}, the Foundation HUG but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.
 
