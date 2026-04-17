@@ -1,0 +1,39 @@
+---
+title: "CALIBRATE"
+subtitle: "Common genetic variants And Longitudinal data Integration for Biomarker Reassessment And Testing Enhancement"
+editor: visual
+---
+
+***Un projet de recherche visant à déterminer si l'utilisation de valeurs de références personalisées à chaque individu pour la lecture des résultats d'analyses médicales pourrait aider les médecins à détecter les maladies plus tôt et plus précisément.***
+
+## **Le problème de « la norme »**
+
+Lorsque votre médecin prescrit une analyse de sang, votre résultat est comparé à une plage de référence unique. Par exemple : « la glycémie d'une personne en bonne santé se situe entre X et Y. » Mais cette plage est la même pour tout le monde, indépendamment de votre âge, de votre origine ou de votre biologie individuelle.
+
+En réalité, ce qui est « normal » pour vous peut être légèrement différent de ce qui est « normal » pour votre voisin. Votre corps a tendance à maintenir bon nombre de ses mesures autour d'un niveau qui lui est propre : une sorte d'empreinte biologique. Pensez à la température corporelle. La plupart des gens se situent autour de 37°C, mais certaines personnes sont naturellement un peu plus chaudes ou plus fraîches. Une température de 38°C peut être de la fièvre pour l'une, et tout à fait ordinaire pour une autre.
+
+## **Ce que nous souhaitons faire**
+
+Ce projet utilisera les résultats d'analyses de routine et les informations génétiques anonymisées de patients des HUG (Hôpitaux Universitaires de Genève) ayant signé le consentement général, afin de calculer la valeur de référence individuelle de chaque personne — sa « norme » personnel — pour une série d'analyses sanguines courantes.
+
+Nous examinerons ensuite si l'utilisation de ces valeurs de référence personnalisées aide les médecins à :
+
+-   **Détecter les maladies plus tôt :** un résultat qui paraît « normal » selon les plages standard pourrait en réalité représenter un changement significatif pour cet individu.
+
+-   **Évaluer les risques plus précisément :** de meilleures valeurs de référence pourraient améliorer les prédictions pour des maladies comme les maladies cardiaques, le diabète ou les problèmes rénaux.
+
+-   **Mieux comprendre la génétique :** nous chercherons à déterminer dans quelle mesure notre valeur de référence personnelle est façonnée par nos gènes.
+
+## **Quelles analyses sont concernées ?**
+
+Nous nous concentrons sur des analyses déjà réalisées en routine sur un grand nombre de patients, notamment la numération formule sanguine (NFS), la glycémie (HbA1c), la fonction rénale (créatinine, cystatine C) et le marqueur prostatique (PSA).
+
+## **Pourquoi est-ce important pour vous ?**
+
+Aujourd'hui, les médecins ne signalent un résultat comme anormal que lorsqu'il dépasse un seuil fixe établi à l'échelle de la population. Avec des valeurs de référence personnalisées, un résultat qui s'éloigne de votre propre norme, même s'il reste dans les limites de la population générale, pourrait déclencher une investigation plus précoce.
+
+Ce type de recherche a le potentiel d'améliorer les soins quotidiens de millions de patients dans le monde. Il s'appuie directement sur vos données hospitalières de routine pour créer quelque chose qui pourrait bénéficier aux futurs patients comme vous.
+
+## **Comment vos données sont-elles utilisées ?**
+
+Nous utilisons des dossiers cliniques et des données génétiques anonymisées, déjà collectés dans le cadre de votre prise en charge aux HUG. Aucune analyse ou procédure supplémentaire n'est nécessaire. Toutes les données sont traitées conformément à la loi suisse sur la protection des données et aux directives éthiques de l'hôpital. Si vous avez des questions, veuillez vous adresser à un membre de l'équipe de recherche.

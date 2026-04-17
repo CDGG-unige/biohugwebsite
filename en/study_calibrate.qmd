@@ -1,0 +1,39 @@
+---
+title: "CALIBRATE"
+subtitle: "Common genetic variants And Longitudinal data Integration for Biomarker Reassessment And Testing Enhancement"
+editor: visual
+---
+
+***A research project exploring whether tailoring medical test results to each individual person could help doctors detect illness earlier and more accurately.***
+
+## The problem with "normal" ranges
+
+When your doctor orders a blood test, your result is compared to a single reference range. For example, "a healthy person's blood sugar is between X and Y." But this range is the same for everyone, regardless of your age, background, or individual biology.
+
+The truth is, what is "normal" for you may be slightly different from what is "normal" for your neighbour. Your body tends to keep many of its measurements stable around its own personal level: a kind of biological fingerprint. Think of it like body temperature. Most people sit close to 37°C, but some people naturally run a little warmer or cooler. A temperature of 38°C could be a fever for one person, but completely ordinary for another.
+
+## **What we want to do**
+
+This project will use routine test results and anonymised genetic information from patients at HUG (Hôpitaux Universitaires de Genève) who have signed the general consent, to calculate each person's individual baseline (their personal "normal") for a range of common blood tests.
+
+We will then investigate whether using these personalised baselines helps doctors:
+
+-   **Detect illness earlier:** A result that looks "normal" by standard ranges might actually be a significant change for that individual.
+
+-   **Assess risk more accurately:** Better baselines could improve predictions for conditions like heart disease, diabetes, and kidney problems.
+
+-   **Understand genetics:** We will explore how much of our personal baseline is shaped by our genes.
+
+## Which tests are involved?
+
+We are focusing on tests that are already routinely performed on large numbers of patients, including Full blood count, Blood sugar (HbA1c), Kidney function (creatinine, cystatin C), Prostate marker (PSA)
+
+## Why does this matter for you?
+
+Today, doctors may only flag a test result as abnormal when it crosses a fixed population-wide threshold. With personalised baselines, a result that is drifting away from your own normal, even if still within population limits, could prompt earlier investigation.
+
+This kind of research has the potential to improve everyday care for millions of patients worldwide. It builds directly on your routine hospital data to create something that could benefit future patients like you.
+
+## How is your data used?
+
+We use anonymised clinical records and genetic data that have already been collected as part of your care at HUG. No additional tests or procedures are needed. All data is handled in accordance with Swiss data protection law and hospital ethics guidelines. If you have any questions, please speak to a member of the research team.
