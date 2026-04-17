@@ -1,0 +1,93 @@
+```{=html}
+<div id="recruitment-counter">
+
+  <p class="counter-label" id="counter-label"></p>
+
+  <div class="counter-numbers">
+    <span id="recruited-count"></span>
+    <span class="counter-sep"> / </span>
+    <span id="goal-count"></span>
+  </div>
+
+  <div class="progress-track">
+    <div class="progress-fill" id="progress-fill"></div>
+  </div>
+
+  <p class="counter-sub" id="counter-sub"></p>
+
+</div>
+
+<style>
+#recruitment-counter {
+  margin: 1.5rem auto 2rem auto;
+  max-width: 560px;
+  background: #f0f7ff;
+  border: 1px solid #c2daf5;
+  border-radius: 12px;
+  padding: 1.4rem 2rem 1.6rem 2rem;
+  text-align: center;
+  font-family: inherit;
+}
+.counter-label {
+  margin: 0 0 0.4rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #1a4f8a;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.counter-numbers {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1a4f8a;
+  line-height: 1.2;
+  margin-bottom: 0.9rem;
+}
+.counter-sep { color: #7aabda; font-weight: 400; }
+.progress-track {
+  width: 100%;
+  height: 18px;
+  background: #d0e8f8;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 0.6rem;
+}
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #2980d9, #1abc9c);
+  border-radius: 999px;
+  transition: width 1.2s cubic-bezier(.4,0,.2,1);
+}
+.counter-sub { margin: 0; font-size: 0.88rem; color: #4a7aaa; }
+</style>
+
+<script>
+(function () {
+  /* ═══════════════════════════════════════════
+     EDIT ONLY THESE TWO NUMBERS — applies to
+     both the French and English home pages.
+     ═══════════════════════════════════════════ */
+  var recruited = 10044;
+  var goal      = 20000;
+  /* ═══════════════════════════════════════════ */
+
+  var isEn = window.location.pathname.indexOf('/en/') !== -1;
+  var pct  = Math.min(100, Math.round(recruited / goal * 100));
+  var locale = isEn ? 'en-CH' : 'fr-CH';
+
+  document.getElementById('recruited-count').textContent = recruited.toLocaleString(locale);
+  document.getElementById('goal-count').textContent      = goal.toLocaleString(locale);
+  document.getElementById('counter-label').textContent   = isEn
+    ? 'Patients recruited to date'
+    : 'Patients recrutés à ce jour';
+  document.getElementById('counter-sub').textContent     = isEn
+    ? pct + '% of target reached'
+    : pct + ' % de l\'objectif atteint';
+
+  setTimeout(function () {
+    document.getElementById('progress-fill').style.width = pct + '%';
+  }, 200);
+})();
+</script>
+```

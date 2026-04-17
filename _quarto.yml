@@ -48,34 +48,14 @@ website:
         menu:
           - text: "Études BioHUG"
             href: /fr/studies.html
+          - text: "CALIBRATE"
+            href: /fr/study_calibrate.html
 
     right:
       - text: "🇫🇷 Français"
-        menu:
-          - text: "Pour les patients"
-            href: /fr/patients/index.html
-          - text: "Pour les chercheurs"
-            href: /fr/researchers/index.html
-          - text: "L'équipe"
-            href: /fr/team.html
-          - text: "Études"
-            href: /fr/studies.html
-          - text: "Governance"
-            href: /fr/researchers/governance.html
+        href: /
       - text: "🇬🇧 English"
-        menu:
-          - text: "Welcome to BioHUG"
-            href: /welcome.html
-          - text: "Patients"
-            href: /patients/index.html
-          - text: "Researchers"
-            href: /researchers/index.html
-          - text: "The team"
-            href: /team.html
-          - text: "Studies"
-            href: /studies.html
-          - text: "Governance"
-            href: /researchers/governance.html
+        href: /en/
 
   page-footer:
     left: |
@@ -94,6 +74,7 @@ website:
 format:
   html:
     lang: fr
+    include-after-body: _navbar-lang.html
     theme:
       light:
         - flatly
