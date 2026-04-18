@@ -65,4 +65,5 @@ Les échantillons BioHUG proviennent de patients ayant signé le [consentement g
 
 Vous trouverez plus d'informations [ici](https://www.mongenome.ch/fr/vos-questions/mes-resultats){target="_blank" rel="noopener noreferrer"}  
 
+
 :::
