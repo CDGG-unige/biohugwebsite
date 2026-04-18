@@ -62,7 +62,7 @@ BioHUG samples come from patients who have signed the [general consent](https://
 ::: {.callout collapse="true"}
 ### Where can I find out more about researcher's use of my DNA ?
 
-More information aais available [here](https://www.mongenome.ch/fr/vos-questions/mes-resultats){target="_blank" rel="noopener noreferrer"}  
+More information aais available [here](https://www.mongenome.ch/fr/){target="_blank" rel="noopener noreferrer"}  
 
 :::
 

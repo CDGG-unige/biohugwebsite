@@ -63,7 +63,7 @@ Les échantillons BioHUG proviennent de patients ayant signé le [consentement g
 ::: {.callout collapse="true"}
 ### Où puis-je trouver plus d'informations sur l'utilisation de mon ADN par les chercheurs ?
 
-Vous trouverez plus d'informations [ici](https://www.mongenome.ch/fr/vos-questions/mes-resultats){target="_blank" rel="noopener noreferrer"}  
+Vous trouverez plus d'informations [ici](https://www.mongenome.ch/fr/){target="_blank" rel="noopener noreferrer"}  
 
 
 :::
