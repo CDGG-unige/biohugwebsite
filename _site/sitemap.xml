@@ -1,91 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/welcome.html</loc>
-    <lastmod>2026-04-17T07:26:19.906Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/studies.html</loc>
-    <lastmod>2026-04-17T07:21:50.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/researchers/howtouse.html</loc>
-    <lastmod>2026-04-07T13:36:30.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/patients/useofsamples.html</loc>
-    <lastmod>2026-04-08T12:41:14.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/patients/faqs.html</loc>
-    <lastmod>2026-04-17T12:12:28.982Z</lastmod>
-  </url>
-  <url>
     <loc>https://cdgg-unige.github.io/biohugwebsite/index.html</loc>
-    <lastmod>2026-04-17T08:19:50.621Z</lastmod>
+    <lastmod>2026-04-18T08:46:07.895Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/studies.html</loc>
-    <lastmod>2026-04-01T12:27:31.247Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/study_calibrate.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/researchers/howtouse.html</loc>
-    <lastmod>2026-04-08T12:20:18.024Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/researchers/index.html</loc>
+    <lastmod>2026-04-17T11:37:16.000Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/useofsamples.html</loc>
-    <lastmod>2026-04-08T12:40:15.158Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/researchers/governance.html</loc>
+    <lastmod>2026-04-17T11:36:46.000Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/faqs.html</loc>
-    <lastmod>2026-04-17T12:22:43.003Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/index.html</loc>
+    <lastmod>2026-04-18T10:21:59.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/consent.html</loc>
+    <lastmod>2026-04-18T09:35:38.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/team.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/studies.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/researchers/howtouse.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/patients/useofsamples.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/patients/faqs.html</loc>
+    <lastmod>2026-04-18T10:16:42.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/index.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/contact.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/patients/consent.html</loc>
+    <lastmod>2026-04-18T09:46:16.181Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/patients/index.html</loc>
+    <lastmod>2026-04-18T10:22:56.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/researchers/governance.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/researchers/index.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/en/study_calibrate.html</loc>
+    <lastmod>2026-04-18T08:46:07.879Z</lastmod>
   </url>
   <url>
     <loc>https://cdgg-unige.github.io/biohugwebsite/fr/contact.html</loc>
     <lastmod>2026-03-22T13:21:30.000Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/contact.html</loc>
-    <lastmod>2026-03-22T13:21:30.000Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/faqs.html</loc>
+    <lastmod>2026-04-18T10:17:29.905Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/consent.html</loc>
-    <lastmod>2026-04-17T12:00:52.463Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/useofsamples.html</loc>
+    <lastmod>2026-04-08T12:40:15.000Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/patients/index.html</loc>
-    <lastmod>2026-04-08T12:11:39.299Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/researchers/howtouse.html</loc>
+    <lastmod>2026-04-08T12:20:18.000Z</lastmod>
   </url>
   <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/researchers/governance.html</loc>
-    <lastmod>2026-04-17T11:36:46.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/researchers/index.html</loc>
-    <lastmod>2026-04-17T11:37:16.321Z</lastmod>
+    <loc>https://cdgg-unige.github.io/biohugwebsite/fr/studies.html</loc>
+    <lastmod>2026-04-01T12:27:31.000Z</lastmod>
   </url>
   <url>
     <loc>https://cdgg-unige.github.io/biohugwebsite/fr/team.html</loc>
-    <lastmod>2026-04-09T07:08:28.738Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/patients/consent.html</loc>
-    <lastmod>2026-03-16T20:25:04.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/patients/index.html</loc>
-    <lastmod>2026-04-01T13:28:59.792Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/researchers/governance.html</loc>
-    <lastmod>2026-04-17T11:38:24.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/researchers/index.html</loc>
-    <lastmod>2026-04-17T11:38:49.744Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cdgg-unige.github.io/biohugwebsite/team.html</loc>
-    <lastmod>2026-04-09T07:07:23.868Z</lastmod>
+    <lastmod>2026-04-09T07:08:28.000Z</lastmod>
   </url>
 </urlset>

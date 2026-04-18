@@ -2,16 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="../fr" xml:lang="../fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>L’équipe – BioHUG</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,18 +33,19 @@ ul.task-list li input[type="checkbox"] {
 <link href="../images/DNAletters.jpg" rel="icon" type="image/jpeg">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b838c21cd29629777c76752ada52915d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-78a1ac5a86f4036bf29508d649137f7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-b838c21cd29629777c76752ada52915d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-96479fb6444f3f408ddbf6febe49dd35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-f5489560ecd4e0849a6cd55e2ba2614b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-96479fb6444f3f408ddbf6febe49dd35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -257,6 +255,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">BioHUG</span>
     </a>
@@ -409,88 +409,171 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script>
+
 (function () {
+
   var path = window.location.pathname;
 
+
+
   /* ── URL mapping between languages ── */
+
   function getFrUrl(p) {
+
     if (p.startsWith('/en/')) {
+
       var sub = p.slice(4);
+
       if (!sub || sub === 'index.html') return '/';
+
       return '/fr/' + sub;
+
     }
+
     return p; // already French or root
+
   }
+
+
 
   function getEnUrl(p) {
+
     if (p === '/' || p === '/index.html') return '/en/';
+
     if (p.startsWith('/fr/')) {
+
       var sub = p.slice(4);
+
       if (!sub || sub === 'index.html') return '/en/';
+
       return '/en/' + sub;
+
     }
+
     return p; // already English
+
   }
+
+
 
   /* ── Left nav items for English pages ── */
+
   var enGroups = [
+
     { text: 'For patients', items: [
+
       { text: 'What is BioHUG?',   href: '/en/patients/index.html' },
+
       { text: 'BioHUG FAQs',       href: '/en/patients/faqs.html' },
+
       { text: 'BioHUG Consent',    href: '/en/patients/consent.html' },
+
       { text: 'Use of samples',    href: '/en/patients/useofsamples.html' }
+
     ]},
+
     { text: 'For researchers', items: [
+
       { text: 'Description of BioHUG', href: '/en/researchers/index.html' },
+
       { text: 'How to use BioHUG',     href: '/en/researchers/howtouse.html' },
+
       { text: 'Governance',            href: '/en/researchers/governance.html' }
+
     ]},
+
     { text: 'The team', items: [
+
       { text: 'Meet the BioHUG team', href: '/en/team.html' }
+
     ]},
+
     { text: 'Studies', items: [
+
       { text: 'BioHUG Studies', href: '/en/studies.html' },
+
       { text: 'CALIBRATE',      href: '/en/study_calibrate.html' }
+
     ]}
+
   ];
 
+
+
   function buildLeftNav(groups) {
+
     return groups.map(function (g, i) {
+
       var id = 'nav-en-' + i;
+
       var subs = g.items.map(function (s) {
+
         return '<li><a class="dropdown-item" href="' + s.href + '">' + s.text + '</a></li>';
+
       }).join('');
+
       return '<li class="nav-item dropdown">' +
+
         '<a class="nav-link dropdown-toggle" id="' + id + '" href="#" role="button" ' +
+
         'data-bs-toggle="dropdown" aria-expanded="false">' + g.text + '</a>' +
+
         '<ul class="dropdown-menu" aria-labelledby="' + id + '">' + subs + '</ul>' +
+
         '</li>';
+
     }).join('');
+
   }
+
+
 
   function run() {
+
     /* Swap left nav on English pages */
+
     if (path.indexOf('/en/') !== -1) {
+
       var nav = document.getElementById('navbar-nav') ||
+
                 document.querySelector('#navbarCollapse ul.me-auto');
+
       if (nav) nav.innerHTML = buildLeftNav(enGroups);
+
     }
 
+
+
     /* Update language button hrefs on every page */
+
     document.querySelectorAll('.navbar-nav a').forEach(function (a) {
+
       var t = a.textContent.trim();
+
       if (t.indexOf('🇬🇧') !== -1) a.href = getEnUrl(path);
+
       else if (t.indexOf('🇫🇷') !== -1) a.href = getFrUrl(path);
+
     });
+
   }
 
+
+
   if (document.readyState === 'loading') {
+
     document.addEventListener('DOMContentLoaded', run);
+
   } else {
+
     run();
+
   }
+
 })();
+
 </script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

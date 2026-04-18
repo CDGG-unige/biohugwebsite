@@ -20,6 +20,13 @@ Anyone who has signed the general consent could be part of BioHUG.
 :::
 
 ::: {.callout collapse="true"}
+### Can you remind me about the consent process ?
+
+More information on the consent process is available [here](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"} and [here](https://www.youtube.com/watch?v=Cze2w8w6XUw){target="_blank" rel="noopener noreferrer"} and the declaration of consent [here](https://www.hug.ch/sites/interhug/files/structures/aider_la_recherche/declaration-consentement-aider-la-recherche.pdf).
+
+:::
+
+::: {.callout collapse="true"}
 ### How does BioHUG keep information from my sample confidential ?
 
 BioHUG takes patient privacy very seriously. This is why all the samples from patients are de-identified. More precisely, each sample is given a special code that is different from the patient ID in the HUG. Personal information such as the patient ID, name, date of birth and address are not available to researchers. For researchers using BioHUG, the de-identified special code is linked to a limited set of medical information that is relevant to their research. For example, a researcher wishing to study diabetes will only be able to use data relevant to diabetes. 
@@ -28,9 +35,9 @@ BioHUG takes patient privacy very seriously. This is why all the samples from pa
 ::: {.callout collapse="true"}
 ### Will someone let me know if something is found in my left over sample ?
 
-No. The reuse of your samples and data for research purposes helps to advance research for the benefit of society, rather than providing you with a direct and immediate personal benefit. The genetic data we process from your sample does not constitute a clinically validated result. However, we follow the guidelines of the [Swiss Personalised Health Network (SPHN)](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"} and we are closely monitoring the approach taken by other large-scale human genetics projects, notably [Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings){target="_blank" rel="noopener noreferrer"}. 
+La recherche menée avec vos échantillons et données ne révélera en principe aucune information individuelle pour votre santé. Dans de rares cas, il pourrait toutefois arriver que des résultats pertinents, pour lesquels des traitements ou des actions de prévention sont disponibles, soient découverts. Dans ce cas, vous recevrez les informations à ce sujet.
 
-In rare cases, it may happen that relevant findings are discovered for which treatments or preventive measures are available. In such cases, you will be informed accordingly.
+The reuse of your samples and data for research purposes helps to advance research for the benefit of society, rather than providing you with a direct and immediate personal benefit. The genetic data we process from your sample does not constitute a clinically validated result. However, we follow the guidelines of the [Swiss Personalised Health Network (SPHN)](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"} and we are closely monitoring the approach taken by other large-scale human genetics projects, notably [Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings){target="_blank" rel="noopener noreferrer"}. 
 
 :::
 
@@ -48,6 +55,15 @@ BioHUG is also watched over by an International Scientific Advisory Board consis
 ::: {.callout collapse="true"}
 ### How do I withdraw from BioHUG ?
 
-BioHUG samples come from patients who have signed the [general consent](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. and therefore have given permission to researchers to use their de-identified medical data and samples for research. However, if you do not wish your spare samples to be used in this way **you can change your decision at anytime by contacting**: aider-la-recherche\@hcuge.ch or telephone: 022 372 91 57.
+BioHUG samples come from patients who have signed the [general consent](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. and therefore have given permission to researchers to use their de-identified medical data and samples for research. However, if you do not wish your spare samples to be used in this way **you can change your decision at anytime by contacting**: <aider-la-recherche\@hcuge.ch> or telephone: 022 372 91 57.
 
 :::
+
+::: {.callout collapse="true"}
+### Where can I find out more about researcher's use of my DNA ?
+
+More information aais available [here](https://www.mongenome.ch/fr/vos-questions/mes-resultats){target="_blank" rel="noopener noreferrer"}  
+
+:::
+
+
