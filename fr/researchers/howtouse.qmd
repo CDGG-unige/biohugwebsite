@@ -43,9 +43,9 @@ Les données génétiques sur des échantillons supplémentaires, ainsi que la c
 :::
 
 ::: {.callout collapse="true"}
-### BioHUG est-il accrédité auprès de la plateforme suisse de biobanques ?
+### BioHUG est-il reconnu auprès de la plateforme suisse de biobanques ?
 
-Oui. BioHUG est accrédité par la Swiss Biobanking Platform. Plus d'informations [ici](https://swissbiobanking.ch/sbp-directory/){target="_blank" rel="noopener noreferrer"}.
+Oui. BioHUG est reconnu par la Swiss Biobanking Platform. Plus d'informations [ici](https://swissbiobanking.ch/sbp-directory/){target="_blank" rel="noopener noreferrer"}.
 :::
 
 ::: {.callout collapse="true"}

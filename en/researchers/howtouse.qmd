@@ -38,9 +38,9 @@ Genetic data on additional samples, and banking of serum and plasma is subject t
 :::
 
 ::: {.callout collapse="true"}
-### Is BioHUG accredited with the Swiss Biobanking platform ?
+### Is BioHUG recognised by the Swiss Biobanking platform ?
 
-Yes. BioHUG has Swiss Biobanking Platform accreditation. More details [here](https://swissbiobanking.ch/sbp-directory/){target="_blank" rel="noopener noreferrer"}.
+Yes. BioHUG has Swiss Biobanking Platform VITA status. More details [here](https://swissbiobanking.ch/sbp-directory/){target="_blank" rel="noopener noreferrer"}.
 :::
 
 ::: {.callout collapse="true"}

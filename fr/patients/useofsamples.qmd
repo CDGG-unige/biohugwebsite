@@ -3,7 +3,7 @@ title: "L'utilisation des échantillons BioHUG"
 editor: visual
 ---
 
-Vous trouverez ci-dessous une série de schémas illustrant certaines des méthodes que nous utilisons pour analyser l'ADN et d'autres paramètres présents dans votre sang.
+Vous trouverez ci-dessous une série de schémas illustrant certaines des méthodes que nous utilisons pour analyser l'ADN et d'autres paramètres présents dans votre sang. Aussi vous pourriez ecouter d'un podcast en Francais [ici](https://shows.acast.com/5d889824ae104c2456077972/episodes/5e28391a4719aff9206a3eda?){target="_blank" rel="noopener noreferrer"}.
 
 ![Le schéma ci-dessus illustre un exemple de « SNP » (polymorphisme nucléotidique simple), c'est-à-dire une modification ponctuelle de l'ADN. Ce sont ces modifications qui nous intéressent. Nous en mesurons des millions, dont plusieurs dizaines de milliers dans votre ADN](../../images/SNP.jpg){fig-align="center" width="50%"}
 
@@ -11,4 +11,4 @@ Vous trouverez ci-dessous une série de schémas illustrant certaines des métho
 
 ![Nous pouvons également analyser d'autres paramètres dans votre échantillon de sang, plus précisément dans la partie du sang appelée « plasma ».](../../images/PTest-768x783.jpg){fig-align="center" width="50%"}
 
-Les images ci-dessus viennent du [site-web](https://victr.vumc.org/what-is-biovu/){target="_blank" rel="noopener noreferrer"}.
+Les images ci-dessus viennent de la project [BioVU](https://victr.vumc.org/what-is-biovu/){target="_blank" rel="noopener noreferrer"} a l'hopital Vanderbilt.
