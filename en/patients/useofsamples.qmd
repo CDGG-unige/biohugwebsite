@@ -3,7 +3,7 @@ title: "The use of BioHUG samples"
 editor: visual
 ---
 
-Below are a series of diagrams that illustrate some of the ways we measure DNA and other factors in your blood. You can find out more in French at ![Mon Genome & Moi](https://www.mongenome.ch/fr/){target="_blank" rel="noopener noreferrer"}.
+Below are a series of diagrams that illustrate some of the ways we measure DNA and other factors in your blood. You can find out more in French at [Mon Genome & Moi](https://www.mongenome.ch/fr/){target="_blank" rel="noopener noreferrer"}.
 
 The diagram below shows an example of a "SNP" (Single nucleotide polymorphism) a single change in DNA. It is these changes we are interesed in. We measure millions of them, including 10,000s in your DNA
 
