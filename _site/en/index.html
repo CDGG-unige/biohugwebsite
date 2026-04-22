@@ -73,6 +73,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XF2D87G6XM5"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-XF2D87G6XM5', { 'anonymize_ip': true});
+</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
 
@@ -384,7 +393,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Our mission is to help researchers advance the study of disease and personalised medicine in partnership with HUG patients. This website provides information for these HUG patients and researchers. One of central goals is to facilitate the collection and secure use of patients’ de-identified samples, including blood samples that are otherwise thrown in the trash blood samples that are otherwise thrown in the trash. These samples will be safely stored so that researchers can use them to measure important factors related to disease. These factors will include genetic variations that can influence disease and response to treatments <img src="..\images/bloodtuberack.webp" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%" alt="."></p>
-<p>We would like to thank the HUG, the <a href="https://www.hug.ch/patients-partenaires" target="_blank" rel="noopener noreferrer">patients partenaires</a>, the Foundation HUG but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.</p>
+<p>We would like to thank the HUG, the <a href="https://www.hug.ch/patients-partenaires" target="_blank" rel="noopener noreferrer">patients partenaires</a>, the Private HUG foundation, but most of all the HUG patients who have agreed that their routine data and samples can be reused for researchers under appropriate and secure conditions.</p>
 <div class="columns text-center">
 <div class="column">
 <p><a href="../en/researchers/index.html" class="big-link-box">For Researchers</a></p>
@@ -472,8 +481,8 @@ ul.task-list li input[type="checkbox"] {
   document.getElementById('recruited-count').textContent = recruited.toLocaleString(locale);
   document.getElementById('goal-count').textContent      = goal.toLocaleString(locale);
   document.getElementById('counter-label').textContent   = isEn
-    ? 'Patients recruited to date'
-    : 'Patients recrutés à ce jour';
+    ? 'HUG Patients with a DNA sample in BioHUG'
+    : 'Patients HUG dont un échantillon d'ADN est enregistré dans BioHUG';
   document.getElementById('counter-sub').textContent     = isEn
     ? pct + '% of target reached'
     : pct + ' % de l\'objectif atteint';

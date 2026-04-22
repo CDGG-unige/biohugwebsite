@@ -79,8 +79,8 @@
   document.getElementById('recruited-count').textContent = recruited.toLocaleString(locale);
   document.getElementById('goal-count').textContent      = goal.toLocaleString(locale);
   document.getElementById('counter-label').textContent   = isEn
-    ? 'Patients recruited to date'
-    : 'Patients recrutés à ce jour';
+    ? 'HUG Patients with a DNA sample in BioHUG'
+    : 'Patients HUG dont un échantillon d'ADN est enregistré dans BioHUG';
   document.getElementById('counter-sub').textContent     = isEn
     ? pct + '% of target reached'
     : pct + ' % de l\'objectif atteint';

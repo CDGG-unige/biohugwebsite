@@ -1,0 +1,53 @@
+---
+title: "FAQs"
+format: html
+---
+
+## Frequently Asked Questions
+
+::: {.callout collapse="true"}
+### How can DNA be collected from me and used for research ?
+
+When you have a routine blood test, for example to check your cholesterol levels or how well your kidneys are functioning, there is often some blood left over. This unused blood is usually thrown in the trash after a few days. For BioHUG, we intercept these blood samples, if you have signed the general consent, and extract DNA in laboratories at the HUG.
+
+In early 2026, over 150,000 Geneva residents have signed the general consent giving permission for their medical data and samples to be reused for research. BioHUG is aiming to bank DNA from 20,000 of these Geneva residents by early 2027. This will make BioHUG the largest biomedical research project in Geneva and one of the largest in Europe from a single hospital.
+:::
+
+::: {.callout collapse="true"}
+### Who can participate ?
+
+Anyone who has signed the general consent could be part of BioHUG.
+:::
+
+::: {.callout collapse="true"}
+### How does BioHUG keep information from my sample confidential ?
+
+BioHUG takes patient privacy very seriously. This is why all the samples from patients are de-identified. More precisely, each sample is given a special code that is different from the patient ID in the HUG. Personal information such as the patient ID, name, date of birth and address are not available to researchers. For researchers using BioHUG, the de-identified special code is linked to a limited set of medical information that is relevant to their research. For example, a researcher wishing to study diabetes will only be able to use data relevant to diabetes. 
+:::
+
+::: {.callout collapse="true"}
+### Will someone let me know if something is found in my left over sample ?
+
+No. The reuse of your samples and data for research purposes helps to advance research for the benefit of society, rather than providing you with a direct and immediate personal benefit. The genetic data we process from your sample does not constitute a clinically validated result. However, we follow the guidelines of the [Swiss Personalised Health Network (SPHN)](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"} and we are closely monitoring the approach taken by other large-scale human genetics projects, notably [Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings){target="_blank" rel="noopener noreferrer"}. 
+
+In rare cases, it may happen that relevant findings are discovered for which treatments or preventive measures are available. In such cases, you will be informed accordingly.
+
+:::
+
+::: {.callout collapse="true"}
+### Who makes sure that BioHUG researchers use my leftover sample the way they are supposed to ?
+
+BioHUG is watched over by a local management group consisting of doctors, clinical scientists working at HUG, a patient representative from the patients partenaires team. 
+
+All research projects that aim to generate genetic data and use it for research must apply to the The [Canton de Geneve research ethics committee (CCER)](https://www.ge.ch/ccer-obtenir-autorisation-recherche-medicale-etre-humain){target="_blank" rel="noopener noreferrer"}
+
+BioHUG is also watched over by an International Scientific Advisory Board consisting of experts from other hospitals around the world who have similar biobanks including [BioVU](https://victr.vumc.org/what-is-biovu/){target="_blank" rel="noopener noreferrer"}, [BioME](https://www.nature.com/articles/d42473-022-00272-1){target="_blank" rel="noopener noreferrer"} and [SHARE](https://www.registerforshare.org/){target="_blank" rel="noopener noreferrer"}. 
+
+:::
+
+::: {.callout collapse="true"}
+### How do I withdraw from BioHUG ?
+
+BioHUG samples come from patients who have signed the [general consent](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. and therefore have given permission to researchers to use their de-identified medical data and samples for research. However, if you do not wish your spare samples to be used in this way **you can change your decision at anytime by contacting**: aider-la-recherche\@hcuge.ch or telephone: 022 372 91 57.
+
+:::

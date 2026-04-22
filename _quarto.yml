@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  
+
 
 execute:
   freeze: auto
@@ -9,6 +11,7 @@ website:
   site-url: https://cdgg-unige.github.io/biohugwebsite/
   repo-url: https://github.com/CDGG-unige/biohugwebsite/
   title: "BioHUG"
+  google-analytics: "G-XF2D87G6XM5"
   description: "BioHUG is the biobank of the Geneva University Hospitals (HUG), supporting clinical and translational research."
   favicon: images/DNAletters.jpg
   open-graph:

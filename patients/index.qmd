@@ -1,0 +1,36 @@
+---
+title: "What is BioHUG ? "
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+### What is BioHUG ?
+
+BioHUG is the University Hospital of Geneva’s collection, or “bank” of de-identified human samples (see below for details on de-identification). These samples include those containing DNA. The samples come from patients who have signed the [general consent](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"}. and therefore have given permission to researchers to use their de-identified medical data and samples for research. **Patients can change their decision at anytime by contacting**: aider-la-recherche\@hcuge.ch or telephone: 022 372 91 57 .
+
+### Why is BioHUG collecting DNA ?
+
+DNA is present in almost every cell of the human body and serves as the blueprint directing how the body is built and how it functions. Tiny changes to the DNA inherited from your parents will influence your hair and eye colour, your height and weight, your risk of developing certain disease, and how well you may respond to treatments.
+
+Researchers are using DNA samples to understand why certain diseases occur in certain people or why a drug works better in some people than others. This approach to understanding disease, using human data and DNA samples, is extremely important for medical research and is used extensively throughout the world to search for new treatments and reduce potential side effect.
+
+### How does BioHUG work ?
+
+When you have a routine blood test—for example to check your cholesterol levels or how well your kidneys are functioning— there is often some blood left over. This unused blood is usually thrown away after a few days. For BioHUG, we collect these blood sample leftovers from people who have signed the general consent, and extract DNA in laboratories at the HUG.
+
+In early 2026, over 150,000 Geneva residents have already signed the general consent giving permission for their medical data and samples to be reused for research. BioHUG is aiming to bank DNA from 20,000 of these individuals by early 2027. This will make BioHUG the largest biomedical research project in Geneva and one of the largest in Europe from a single hospital.
+
+### What are the objectives of BioHUG ?
+
+BioHUG is not a specific research project. Instead its aim is to provide the foundations for new research projects. These research projects could include many different diseases and responses to treatment and will usually include linking DNA information to medical information to understand in more detail the disease. An example of one of the first research project arising from BioHUG is “CALIBRATE”. Link.
+
+### How do I sign up for BioHUG ?
+
+We do not need you to sign up again to the study if you have already signed the general consent. This means no new blood samples or information is required.
+
+### What are the benefits to patients ?
+
+There are no immediate direct benefits to individual patients and we cannot return information to you as the DNA analyses are not performed by clinicians, but by researchers. Instead, contributing to BioHUG is a contribution to finding new links between genes and disease. These new links can then be tested in separate studies. Some other hospitals around the world have very similar banks of DNA in 10,000s of patients and these are being used to make important discoveries that are then tested further. For example, a recent study using several similar DNA “banks” found a link between changes in a certain gene and missed diagnoses of Diabetes [Diabetes](https://www.ukbiobank.ac.uk/research-stories/hidden-genetic-condition-means-many-black-men-get-diabetes-diagnoses-too-late/){target="_blank" rel="noopener noreferrer"}.
+
+For more details see the [Frequently asked questions](faqs.qmd) page

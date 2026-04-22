@@ -1,40 +1,30 @@
 ---
-title: "FAQs"
+title: "Questions Fréquemment Posées"
 format: html
 ---
-
-## Questions Fréquemment Posées
 
 ::: {.callout collapse="true"}
 ### Comment mon ADN peut-il être prélevé et utilisé à des fins de recherche ? ?
 
-Lorsque vous passez un examen sanguin de routine, par exemple pour vérifier votre taux de cholestérol ou le bon fonctionnement de vos reins, il reste souvent un peu de sang. Ce sang non utilisé est généralement jeté à la poubelle au bout de quelques jours. Chez BioHUG, nous récupérons ces échantillons sanguins, à condition que vous ayez signé le consentement général, et nous en extrayons l’ADN dans les laboratoires des HUG.
-
-Début 2026, plus de 150 000 Genevois avaient signé le consentement général autorisant la réutilisation de leurs données médicales et de leurs échantillons à des fins de recherche. BioHUG vise à constituer une banque d'ADN provenant de 20 000 de ces Genevois d'ici début 2027. Cela fera de BioHUG le plus grand projet de recherche biomédicale à Genève et l'un des plus importants en Europe mené par un seul hôpital.
-:::
-
-::: {.callout collapse="true"}
-### Qui peut participer ?
-
-Si vous avez signé le consentement général à un moment donné dans le passé et que vous ne l'avez pas retiré par la suite, vos échantillons pourraient faire partie de BioHUG.
+Lors d’un examen sanguin de routine, par exemple pour contrôler votre taux de cholestérol ou l’état de vos reins, il reste souvent un peu de sang qui n’est pas utilisé pour l’analyse. Ce sang non utilisé est généralement jeté et détruit, au bout de quelques jours.  Si vous ayez signé le consentement général, ces restes échantillons sanguins sont collectés par BioHUG et l’ADN en sera extrait dans les laboratoires des HUG.
+Début 2026, plus de 150 000 Genevois avaient signé le consentement général autorisant la réutilisation de leurs données médicales et de leurs échantillons à des fins de recherche. BioHUG vise à constituer une banque d’ADN provenant de 20 000 de ces genevois d’ici début 2027, ce qui fera de BioHUG le plus grand projet de recherche biomédicale à Genève et l’un des plus importants en Europe mené par un seul hôpital.
 
 :::
 
 ::: {.callout collapse="true"}
-### Pourriez-vous me rappeler en quoi consiste la procédure de consentement ?
- Vous trouverez plus d'informations sur la procédure de consentement [ici](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"} et [ici](https://www.youtube.com/watch?v=Cze2w8w6XUw){target="_blank" rel="noopener noreferrer"} et la declaration de consentement [ici](https://www.hug.ch/sites/interhug/files/structures/aider_la_recherche/declaration-consentement-aider-la-recherche.pdf).
+### Qui peut participer à BioHUG ?
 
-:::
+Si vous avez signé le consentement général par le passé et que vous ne l’avez pas retiré par la suite, vos échantillons pourraient faire partie de BioHUG. En quoi consiste la procédure de consentement ?  Vous trouverez plus d'informations sur la procédure de consentement [ici](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"} ou grace a cette [video](https://www.youtube.com/watch?v=Cze2w8w6XUw){target="_blank" rel="noopener noreferrer"} et pouvez télécharger la déclaration de consentement  [ici](https://www.hug.ch/sites/interhug/files/structures/aider_la_recherche/declaration-consentement-aider-la-recherche.pdf).
 
 
 ::: {.callout collapse="true"}
 ### Comment BioHUG garantit-il la confidentialité des informations relatives à mon échantillon?
 
-BioHUG accorde une grande importance à la confidentialité des patients. C'est pourquoi tous les échantillons provenant des patients sont anonymisés. Plus précisément, chaque échantillon se voit attribuer un code spécial, distinct de l'identifiant du patient au HUG. Les informations personnelles telles que l'identifiant du patient, son nom, sa date de naissance et son adresse ne sont pas accessibles aux chercheurs. Pour les chercheurs utilisant BioHUG, ce code spécial anonymisé est associé à un ensemble limité d’informations médicales pertinentes pour leurs travaux. Par exemple, un chercheur souhaitant étudier le diabète ne pourra utiliser que les données relatives au diabète. 
+BioHUG accorde une grande importance à la confidentialité des données des patients. C’est pourquoi tous les échantillons sont anonymisés. Plus précisément, chaque échantillon se voit attribuer un code, distinct de l’identifiant du patient au HUG. Les informations personnelles telles que l’identifiant du patient, son nom, sa date de naissance et son adresse ne sont pas accessibles aux chercheurs. Plus précisément, pour les chercheurs utilisant BioHUG, ce code est associé à un ensemble limité d’informations médicales pertinentes pour leurs travaux. Par exemple, un chercheur souhaitant étudier le diabète ne pourra utiliser que les données relatives au diabète.
 :::
 
 ::: {.callout collapse="true"}
-### Quelqu'un pourrait-il me prévenir si on trouve quelque chose dans mon échantillon restant ?
+### Pourra-t-on me prévenir si l’on trouve quelque chose dans mon échantillon ?
 La recherche menée avec vos échantillons et données ne révélera en principe aucune information individuelle pour votre santé. Dans de rares cas, il pourrait toutefois arriver que des résultats pertinents, pour lesquels des traitements ou des actions de prévention sont disponibles, soient découverts. Dans ce cas, vous recevrez les informations à ce sujet.
 
 La réutilisation de vos échantillons et de vos données à des fins de recherche contribue à faire progresser la recherche au profit de la société, plutôt que de vous apporter un bénéfice personnel direct et immédiat. Les données génétiques que nous traitons à partir de votre échantillon ne constituent pas un résultat cliniquement validé. Cependant, nous nous appuyons sur les directives du [Réseau suisse de santé personnalisée (SPHN)](https://sphn.ch/wp-content/uploads/2020/05/Guidance_20200429_Reporting-actionable-genetic-findings_Final.pdf){target="_blank" rel="noopener noreferrer"} et suivons de près l’approche adoptée par d’autres projets de génétique humaine à grande échelle, notamment [Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings){target="_blank" rel="noopener noreferrer"}.  
@@ -65,5 +55,6 @@ Les échantillons BioHUG proviennent de patients ayant signé le [consentement g
 
 Vous trouverez plus d'informations [ici](https://www.mongenome.ch/fr/){target="_blank" rel="noopener noreferrer"}  
 
+Si vous avez signé le consentement général par le passé et que vous ne l’avez pas retiré par la suite, vos échantillons pourraient faire partie de BioHUG. En quoi consiste la procédure de consentement ?  Vous trouverez plus d'informations sur la procédure de consentement [ici](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"} ou grace a cette [video](https://www.youtube.com/watch?v=Cze2w8w6XUw){target="_blank" rel="noopener noreferrer"} et pouvez télécharger la déclaration de consentement  [ici](https://www.hug.ch/sites/interhug/files/structures/aider_la_recherche/declaration-consentement-aider-la-recherche.pdf).
 
 :::
