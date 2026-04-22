@@ -16,6 +16,7 @@ Début 2026, plus de 150 000 Genevois avaient signé le consentement général a
 
 Si vous avez signé le consentement général par le passé et que vous ne l’avez pas retiré par la suite, vos échantillons pourraient faire partie de BioHUG. En quoi consiste la procédure de consentement ?  Vous trouverez plus d'informations sur la procédure de consentement [ici](https://www.hug.ch/aider-recherche){target="_blank" rel="noopener noreferrer"} ou grace a cette [video](https://www.youtube.com/watch?v=Cze2w8w6XUw){target="_blank" rel="noopener noreferrer"} et pouvez télécharger la déclaration de consentement  [ici](https://www.hug.ch/sites/interhug/files/structures/aider_la_recherche/declaration-consentement-aider-la-recherche.pdf).
 
+:::
 
 ::: {.callout collapse="true"}
 ### Comment BioHUG garantit-il la confidentialité des informations relatives à mon échantillon?
