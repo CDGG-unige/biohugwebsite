@@ -76,12 +76,8 @@ format:
     lang: fr
     include-after-body: _navbar-lang.html
     theme:
-      light:
-        - flatly
-        - custom.scss
-      dark:
-        - darkly
-        - custom.scss
+      - flatly
+      - custom.scss
     toc: true
     toc-depth: 3
     smooth-scroll: true
