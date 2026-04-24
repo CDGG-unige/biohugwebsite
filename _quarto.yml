@@ -8,6 +8,7 @@ execute:
   freeze: auto
 
 website:
+  google-analytics: "G-F2D87G6XM5"
   site-url: https://cdgg-unige.github.io/biohugwebsite/
   repo-url: https://github.com/CDGG-unige/biohugwebsite/
   title: "BioHUG"
@@ -90,14 +91,6 @@ format:
     anchor-sections: true
     link-external-icon: true
     link-external-newwindow: true
-    include-in-header:
-      - text: |
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-XF2D87G6XM5"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-XF2D87G6XM5');
-          </script>
+          
     
     
