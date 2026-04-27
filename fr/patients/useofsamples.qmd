@@ -9,7 +9,7 @@ Le schéma ci-dessous illustre un exemple de « SNP » (polymorphisme nucléotid
 
 ![.](../../images/SNP.jpg){fig-align="center" width="50%"}.
 
-Nous pouvons mesurer ces SNP et d'autres types de variations dans votre ADN de plusieurs manières différentes. À l'avenir, nous espérons pouvoir séquencer, c'est-à-dire lire, l'intégralité du code génétique à l'aide d'une approche appelée "Séquençage du génome entier".
+Nous pouvons mesurer ces SNP et d'autres types de variations dans votre ADN de plusieurs manières différentes. Nous espérons pouvoir séquencer, c'est-à-dire lire, l'intégralité du code génétique à l'aide d'une approche appelée "Séquençage du génome entier".
 
 ![.](../../images/gene-sequencing_simple.webp){fig-align="center" width="50%"}.
 
